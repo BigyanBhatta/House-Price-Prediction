@@ -1,0 +1,2560 @@
+area_type,bath,balcony,price,available to move,rectified_sqft
+Built-up  Area,3.0,1.0,180.0,Yes,2270.0
+Super built-up  Area,2.0,2.0,52.85,Yes,1215.0
+Super built-up  Area,2.0,1.0,54.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,55.0,Yes,1424.0
+Super built-up  Area,2.0,1.0,50.3,Yes,1200.0
+Built-up  Area,2.0,1.0,44.5,Yes,1000.0
+Super built-up  Area,3.0,2.0,280.0,Yes,2500.0
+Super built-up  Area,3.0,1.0,63.25,Yes,1310.0
+Super built-up  Area,3.0,2.0,90.0,Yes,1595.0
+Super built-up  Area,3.0,2.0,155.0,Yes,1700.0
+Super built-up  Area,3.0,3.0,88.0,Yes,1570.0
+Super built-up  Area,2.0,2.0,50.0,No,950.0
+Built-up  Area,3.0,3.0,325.0,Yes,3800.0
+Super built-up  Area,2.0,2.0,63.2,Yes,918.0
+Built-up  Area,2.0,1.0,78.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,92.5,Yes,1330.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1410.0
+Plot  Area,40.0,0.0,660.0,Yes,2400.0
+Plot  Area,1.0,0.0,70.0,Yes,585.0
+Super built-up  Area,2.0,2.0,39.0,Yes,1020.0
+Super built-up  Area,2.0,1.0,67.0,Yes,1555.0
+Super built-up  Area,2.0,2.0,48.0,Yes,1230.0
+Super built-up  Area,3.0,2.0,95.0,Yes,1830.0
+Plot  Area,5.0,2.0,350.0,Yes,1800.0
+Super built-up  Area,2.0,2.0,49.86,No,1215.0
+Built-up  Area,7.0,0.0,125.0,Yes,2500.0
+Super built-up  Area,2.0,1.0,70.0,Yes,1200.0
+Built-up  Area,2.0,2.0,60.0,Yes,1370.0
+Super built-up  Area,2.0,1.0,68.5,Yes,1257.0
+Super built-up  Area,3.0,1.0,103.0,No,1564.0
+Super built-up  Area,3.0,2.0,168.0,No,1819.18
+Super built-up  Area,3.0,1.0,130.0,No,1766.0
+Plot  Area,8.0,3.0,270.0,Yes,1200.0
+Plot  Area,4.0,0.0,95.0,Yes,1200.0
+Built-up  Area,4.0,0.0,100.0,Yes,2000.0
+Plot  Area,5.0,1.0,120.0,Yes,1350.0
+Super built-up  Area,2.0,1.0,73.5,No,1175.0
+Built-up  Area,2.0,1.0,42.66,Yes,1185.0
+Super built-up  Area,2.0,1.0,40.0,No,972.0
+Super built-up  Area,2.0,3.0,39.0,Yes,1250.0
+Super built-up  Area,2.0,2.0,43.5,Yes,1208.0
+Super built-up  Area,2.0,2.0,30.0,Yes,1075.0
+Super built-up  Area,4.0,0.0,91.915,No,2065.5
+Super built-up  Area,2.0,1.0,57.5,Yes,1082.0
+Super built-up  Area,2.0,1.0,41.75,Yes,1160.0
+Super built-up  Area,2.0,1.0,36.28,Yes,1037.0
+Super built-up  Area,5.0,1.0,282.0,Yes,3596.0
+Super built-up  Area,1.0,1.0,18.0,Yes,660.0
+Super built-up  Area,2.0,1.0,42.0,Yes,1075.0
+Super built-up  Area,2.0,2.0,60.0,Yes,920.0
+Super built-up  Area,2.0,2.0,72.0,Yes,1100.0
+Plot  Area,6.0,3.0,60.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,29.46,No,1020.0
+Built-up  Area,2.0,1.0,451.0,Yes,3895.0
+Built-up  Area,3.0,2.0,250.0,Yes,2000.0
+Super built-up  Area,3.0,2.0,120.0,Yes,1749.0
+Super built-up  Area,2.0,2.0,68.0,No,1283.0
+Built-up  Area,4.0,2.0,130.0,Yes,3050.0
+Super built-up  Area,3.0,2.0,177.0,Yes,2710.0
+Plot  Area,1.0,1.0,48.0,Yes,410.0
+Plot  Area,3.0,2.0,175.0,Yes,20000.0
+Built-up  Area,3.0,0.0,75.0,Yes,2700.0
+Plot  Area,2.0,1.0,100.0,Yes,600.0
+Super built-up  Area,3.0,3.0,130.0,Yes,1380.0
+Super built-up  Area,7.0,2.0,988.0,Yes,5665.84
+Super built-up  Area,2.0,1.0,156.0,Yes,985.0
+Super built-up  Area,2.0,1.0,82.62,Yes,1047.0
+Built-up  Area,2.0,1.0,70.0,Yes,1065.0
+Super built-up  Area,2.0,2.0,57.0,Yes,1181.0
+Super built-up  Area,4.0,3.0,204.0,No,2732.0
+Super built-up  Area,2.0,2.0,51.6,Yes,1307.0
+Built-up  Area,1.0,1.0,78.0,Yes,850.0
+Built-up  Area,2.0,2.0,103.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1200.0
+Built-up  Area,4.0,3.0,100.0,Yes,2500.0
+Super built-up  Area,2.0,2.0,68.75,Yes,1250.0
+Super built-up  Area,3.0,2.0,320.0,Yes,2367.0
+Super built-up  Area,4.0,3.0,111.0,No,2119.0
+Built-up  Area,2.0,3.0,55.0,Yes,1230.0
+Built-up  Area,2.0,1.0,75.0,Yes,1602.0
+Plot  Area,3.0,2.0,70.0,No,1200.0
+Super built-up  Area,2.0,3.0,65.0,Yes,1166.0
+Super built-up  Area,1.0,1.0,35.0,Yes,535.0
+Super built-up  Area,4.0,3.0,190.0,Yes,2439.0
+Plot  Area,3.0,1.0,60.0,Yes,610.0
+Plot  Area,5.0,1.0,150.0,Yes,2400.0
+Super built-up  Area,2.0,1.0,77.0,No,1198.0
+Super built-up  Area,2.0,1.0,77.93,No,1210.0
+Super built-up  Area,3.0,3.0,135.0,Yes,1700.0
+Super built-up  Area,2.0,3.0,55.0,Yes,1500.0
+Super built-up  Area,4.0,2.0,1400.0,Yes,2500.0
+Built-up  Area,4.0,3.0,250.0,Yes,4800.0
+Super built-up  Area,3.0,2.0,65.0,Yes,1480.0
+Super built-up  Area,2.0,1.0,78.0,Yes,1140.0
+Super built-up  Area,1.0,1.0,50.0,No,905.0
+Super built-up  Area,2.0,1.0,45.0,No,1260.0
+Built-up  Area,2.0,1.0,63.0,Yes,1350.0
+Super built-up  Area,2.0,0.0,50.125,Yes,1155.0
+Super built-up  Area,3.0,1.0,197.0,Yes,2425.0
+Built-up  Area,6.0,2.0,150.0,Yes,4000.0
+Super built-up  Area,2.0,1.0,59.0,No,1174.0
+Super built-up  Area,2.0,2.0,36.94,No,1125.0
+Plot  Area,2.0,0.0,62.0,Yes,1200.0
+Built-up  Area,2.0,2.0,41.0,Yes,1050.0
+Built-up  Area,2.0,2.0,50.0,No,1199.0
+Built-up  Area,5.0,0.0,158.0,Yes,2700.0
+Built-up  Area,5.0,3.0,150.0,Yes,3000.0
+Super built-up  Area,15.0,0.0,125.0,Yes,1250.0
+Built-up  Area,6.0,3.0,110.0,Yes,800.0
+Super built-up  Area,2.0,1.0,47.39,Yes,1185.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1084.0
+Super built-up  Area,2.0,1.0,78.2,No,1173.0
+Super built-up  Area,3.0,2.0,56.0,Yes,1464.0
+Super built-up  Area,3.0,2.0,113.0,No,1655.0
+Super built-up  Area,2.0,2.0,70.0,Yes,1295.0
+Super built-up  Area,2.0,3.0,72.2,Yes,1150.0
+Plot  Area,4.0,2.0,325.0,Yes,2396.0
+Super built-up  Area,1.0,1.0,10.0,Yes,400.0
+Super built-up  Area,3.0,1.0,73.9,No,1578.0
+Super built-up  Area,2.0,1.0,57.0,Yes,1152.0
+Super built-up  Area,4.0,1.0,326.0,Yes,3033.0
+Built-up  Area,2.0,2.0,43.59,Yes,1453.0
+Plot  Area,3.0,1.0,99.0,Yes,1900.0
+Built-up  Area,4.0,0.0,100.0,No,2500.0
+Plot  Area,2.0,2.0,85.0,Yes,1158.0
+Built-up  Area,3.0,1.0,88.0,No,1830.0
+Built-up  Area,3.0,2.0,210.0,Yes,1975.0
+Super built-up  Area,3.0,2.0,140.0,Yes,984.0
+Super built-up  Area,3.0,2.0,135.0,No,1995.0
+Plot  Area,5.0,1.0,275.0,Yes,3000.0
+Plot  Area,5.0,2.0,900.0,Yes,3968.0
+Plot  Area,2.0,1.0,57.0,Yes,1006.0
+Super built-up  Area,2.0,3.0,50.0,Yes,1170.0
+Plot  Area,4.0,2.0,180.0,Yes,1200.0
+Plot  Area,3.0,0.0,650.0,Yes,2295.0
+Super built-up  Area,3.0,1.0,90.0,Yes,1500.0
+Super built-up  Area,1.0,1.0,29.0,Yes,800.0
+Super built-up  Area,2.0,2.0,69.0,Yes,1280.0
+Super built-up  Area,3.0,1.0,57.46,No,1386.0
+Built-up  Area,2.0,2.0,43.71,No,1410.0
+Super built-up  Area,2.0,2.0,42.0,Yes,1150.0
+Super built-up  Area,2.0,2.0,85.0,Yes,1100.0
+Super built-up  Area,2.0,2.0,55.0,Yes,1510.0
+Super built-up  Area,3.0,1.0,115.0,Yes,1691.2
+Super built-up  Area,2.0,1.0,51.25,No,1017.0
+Super built-up  Area,3.0,1.0,110.0,Yes,1747.0
+Plot  Area,4.0,0.0,130.0,Yes,1200.0
+Built-up  Area,3.0,2.0,126.0,Yes,1700.0
+Built-up  Area,2.0,2.0,65.0,Yes,1150.0
+Plot  Area,2.0,2.0,12.75,No,1500.0
+Super built-up  Area,4.0,2.0,160.0,Yes,2070.0
+Super built-up  Area,1.0,1.0,55.0,Yes,2559.0
+Built-up  Area,2.0,1.0,65.8,Yes,1253.0
+Super built-up  Area,2.0,1.0,61.0,Yes,1372.0
+Built-up  Area,4.0,2.0,150.0,Yes,2395.0
+Built-up  Area,2.0,1.0,39.0,Yes,883.0
+Super built-up  Area,2.0,2.0,73.0,Yes,1450.0
+Super built-up  Area,2.0,1.0,32.0,Yes,905.0
+Plot  Area,3.0,2.0,62.0,No,1500.0
+Super built-up  Area,3.0,1.0,65.0,Yes,1352.0
+Super built-up  Area,3.0,2.0,122.0,Yes,1680.0
+Super built-up  Area,6.0,2.0,480.0,Yes,3754.0
+Built-up  Area,3.0,2.0,250.0,No,3200.0
+Super built-up  Area,2.0,1.0,63.98,Yes,1600.0
+Built-up  Area,2.0,1.0,22.0,Yes,620.0
+Built-up  Area,2.0,2.0,80.5,Yes,1348.0
+Built-up  Area,5.0,2.0,250.0,Yes,3425.0
+Super built-up  Area,1.0,1.0,52.0,No,703.0
+Super built-up  Area,2.0,2.0,59.8,Yes,1090.0
+Built-up  Area,2.0,3.0,52.0,Yes,1075.0
+Built-up  Area,3.0,2.0,151.0,Yes,2357.0
+Built-up  Area,2.0,2.0,55.0,Yes,1260.0
+Super built-up  Area,2.0,2.0,47.24,Yes,1350.0
+Super built-up  Area,3.0,2.0,53.0,Yes,1800.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1450.0
+Super built-up  Area,2.0,2.0,46.0,Yes,930.0
+Built-up  Area,2.0,1.0,60.0,No,1155.0
+Plot  Area,3.0,2.0,38.0,Yes,462.0
+Super built-up  Area,2.0,1.0,45.0,Yes,1215.0
+Plot  Area,3.0,2.0,93.0,Yes,1386.0
+Super built-up  Area,3.0,3.0,81.94,No,1699.0
+Super built-up  Area,2.0,2.0,69.0,Yes,980.0
+Built-up  Area,2.0,1.0,60.0,Yes,1141.0
+Super built-up  Area,2.0,3.0,51.91,Yes,1116.0
+Super built-up  Area,5.0,2.0,221.0,No,3360.0
+Super built-up  Area,3.0,1.0,270.0,Yes,2400.0
+Super built-up  Area,3.0,3.0,185.0,Yes,2000.0
+Super built-up  Area,3.0,3.0,115.0,Yes,1560.0
+Super built-up  Area,3.0,2.0,65.0,Yes,1150.0
+Plot  Area,3.0,0.0,77.0,Yes,600.0
+Super built-up  Area,2.0,2.0,73.0,Yes,1237.0
+Plot  Area,2.0,1.0,65.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,79.0,Yes,1545.0
+Super built-up  Area,2.0,2.0,53.0,Yes,1225.0
+Super built-up  Area,2.0,1.0,61.0,Yes,1100.0
+Super built-up  Area,2.0,1.0,101.0,Yes,1360.0
+Super built-up  Area,2.0,1.0,56.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1075.0
+Super built-up  Area,2.0,2.0,58.0,Yes,1210.0
+Super built-up  Area,2.0,1.0,52.0,Yes,1162.0
+Super built-up  Area,3.0,2.0,74.5,Yes,1550.0
+Super built-up  Area,2.0,1.0,43.0,No,1050.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1280.0
+Super built-up  Area,3.0,2.0,75.0,Yes,1580.0
+Super built-up  Area,3.0,3.0,80.0,Yes,1660.0
+Built-up  Area,2.0,1.0,65.0,Yes,1198.0
+Plot  Area,5.0,2.0,95.0,Yes,800.0
+Super built-up  Area,4.0,2.0,500.0,Yes,3500.0
+Super built-up  Area,3.0,2.0,128.0,Yes,1756.0
+Plot  Area,4.0,2.0,700.0,Yes,5400.0
+Super built-up  Area,3.0,2.0,142.0,Yes,1760.0
+Built-up  Area,2.0,1.0,40.0,Yes,1105.0
+Super built-up  Area,2.0,1.0,43.55,Yes,1089.0
+Super built-up  Area,4.0,2.0,240.0,Yes,2900.0
+Super built-up  Area,2.0,2.0,69.23,Yes,1300.0
+Built-up  Area,2.0,0.0,44.0,Yes,1006.0
+Super built-up  Area,2.0,1.0,170.0,Yes,1900.0
+Plot  Area,3.0,1.0,84.0,Yes,600.0
+Super built-up  Area,2.0,1.0,44.75,Yes,1125.0
+Super built-up  Area,2.0,2.0,50.0,Yes,960.0
+Built-up  Area,2.0,1.0,57.0,Yes,950.0
+Super built-up  Area,2.0,2.0,56.7,Yes,1153.0
+Super built-up  Area,2.0,2.0,95.0,Yes,1295.0
+Built-up  Area,2.0,1.0,59.0,Yes,1050.0
+Super built-up  Area,6.0,2.0,98.0,Yes,2400.0
+Super built-up  Area,2.0,2.0,90.0,Yes,1424.0
+Super built-up  Area,2.0,1.0,94.82,No,1459.0
+Super built-up  Area,2.0,3.0,82.0,Yes,1489.0
+Super built-up  Area,3.0,1.0,118.0,No,1593.0
+Super built-up  Area,3.0,2.0,261.0,No,1950.2
+Super built-up  Area,2.0,1.0,95.0,No,1255.0
+Plot  Area,2.0,1.0,150.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,40.0,Yes,1134.0
+Built-up  Area,2.0,0.0,35.0,Yes,1142.0
+Super built-up  Area,16.0,2.0,550.0,Yes,10000.0
+Super built-up  Area,2.0,2.0,72.0,Yes,1375.0
+Super built-up  Area,3.0,1.0,54.0,Yes,1590.0
+Built-up  Area,1.0,1.0,142.0,Yes,1463.0
+Built-up  Area,8.0,3.0,215.0,Yes,6000.0
+Plot  Area,3.0,2.0,510.0,Yes,2400.0
+Built-up  Area,3.0,0.0,70.0,Yes,1569.0
+Super built-up  Area,3.0,2.0,78.0,Yes,1485.0
+Super built-up  Area,2.0,1.0,46.9,Yes,957.0
+Super built-up  Area,2.0,1.0,51.0,Yes,1179.0
+Super built-up  Area,3.0,2.0,105.0,Yes,1847.0
+Super built-up  Area,2.0,1.0,51.0,Yes,1155.0
+Plot  Area,5.0,1.0,165.0,Yes,1100.0
+Plot  Area,3.0,2.0,149.0,No,2400.0
+Carpet  Area,2.0,1.0,30.5,Yes,910.0
+Plot  Area,4.0,0.0,60.0,Yes,600.0
+Built-up  Area,2.0,1.0,43.75,Yes,896.0
+Super built-up  Area,5.0,2.0,135.0,Yes,900.0
+Built-up  Area,2.0,1.0,350.0,Yes,3500.0
+Super built-up  Area,2.0,1.0,51.0,Yes,1010.0
+Super built-up  Area,2.0,1.0,51.42,No,1165.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1019.0
+Super built-up  Area,3.0,1.0,75.0,Yes,1616.0
+Built-up  Area,2.0,1.0,55.0,Yes,1069.0
+Super built-up  Area,4.0,2.0,160.0,Yes,2072.0
+Super built-up  Area,2.0,3.0,85.0,Yes,1327.0
+Plot  Area,2.0,1.0,100.0,Yes,1200.0
+Plot  Area,5.0,1.0,450.0,Yes,1750.0
+Super built-up  Area,2.0,1.0,69.61,No,1346.0
+Built-up  Area,2.0,0.0,40.0,Yes,935.0
+Built-up  Area,2.0,2.0,30.0,Yes,925.0
+Super built-up  Area,2.0,1.0,123.0,Yes,1420.0
+Super built-up  Area,2.0,1.0,54.8,Yes,1315.0
+Super built-up  Area,3.0,2.0,85.0,Yes,1426.0
+Super built-up  Area,3.0,2.0,54.65,No,1306.0
+Super built-up  Area,4.0,3.0,95.0,Yes,1680.0
+Super built-up  Area,3.0,0.0,65.255,No,1450.0
+Super built-up  Area,2.0,2.0,60.0,No,1225.0
+Super built-up  Area,3.0,2.0,93.0,Yes,1820.0
+Built-up  Area,1.0,1.0,16.0,Yes,550.0
+Super built-up  Area,2.0,1.0,40.0,Yes,950.0
+Super built-up  Area,2.0,1.0,22.0,Yes,656.0
+Plot  Area,4.0,3.0,320.0,Yes,1650.0
+Super built-up  Area,3.0,3.0,75.0,Yes,1552.0
+Super built-up  Area,2.0,2.0,32.5,Yes,950.0
+Super built-up  Area,2.0,2.0,56.0,Yes,1130.0
+Super built-up  Area,3.0,1.0,75.0,Yes,1508.0
+Super built-up  Area,2.0,1.0,91.65,No,1300.0
+Super built-up  Area,2.0,3.0,85.0,Yes,1360.0
+Super built-up  Area,2.0,0.0,59.935,No,1177.5
+Super built-up  Area,2.0,2.0,87.5,Yes,1352.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1170.0
+Built-up  Area,2.0,2.0,57.0,Yes,1500.0
+Super built-up  Area,9.0,3.0,210.0,Yes,5000.0
+Super built-up  Area,2.0,1.0,68.0,No,1286.0
+Plot  Area,7.0,1.0,104.0,Yes,1600.0
+Super built-up  Area,2.0,2.0,89.5,Yes,1350.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1187.0
+Super built-up  Area,2.0,1.0,49.75,Yes,1280.0
+Built-up  Area,2.0,2.0,100.0,Yes,1800.0
+Built-up  Area,2.0,2.0,120.0,Yes,1668.0
+Super built-up  Area,3.0,2.0,85.0,Yes,1690.0
+Super built-up  Area,4.0,2.0,175.0,Yes,2365.0
+Super built-up  Area,3.0,3.0,123.0,Yes,1900.0
+Built-up  Area,4.0,2.0,450.0,Yes,3758.0
+Built-up  Area,1.0,2.0,60.0,Yes,850.0
+Built-up  Area,2.0,2.0,35.0,Yes,850.0
+Plot  Area,4.0,2.0,200.0,Yes,2300.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1200.0
+Super built-up  Area,3.0,3.0,62.0,Yes,1408.0
+Super built-up  Area,2.0,2.0,89.04,Yes,1308.0
+Plot  Area,4.0,1.0,289.0,Yes,3500.0
+Built-up  Area,3.0,2.0,60.0,Yes,1365.0
+Super built-up  Area,3.0,2.0,300.0,Yes,2223.0
+Super built-up  Area,3.0,2.0,68.0,Yes,1374.0
+Super built-up  Area,2.0,1.0,59.0,No,1187.0
+Super built-up  Area,2.0,2.0,76.45,Yes,1390.0
+Built-up  Area,2.0,1.0,52.5,Yes,970.0
+Super built-up  Area,2.0,1.0,46.0,Yes,1180.0
+Super built-up  Area,2.0,2.0,53.0,Yes,1075.0
+Plot  Area,4.0,2.0,900.0,Yes,3000.0
+Super built-up  Area,3.0,2.0,54.0,Yes,1365.0
+Super built-up  Area,2.0,2.0,50.0,Yes,1115.0
+Plot  Area,5.0,3.0,625.0,Yes,2400.0
+Super built-up  Area,2.0,2.0,54.0,Yes,1094.0
+Super built-up  Area,2.0,1.0,50.0,Yes,950.0
+Super built-up  Area,2.0,2.0,41.39,No,1213.0
+Super built-up  Area,2.0,2.0,44.98,Yes,1285.0
+Plot  Area,5.0,2.0,325.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,79.5,No,1646.0
+Super built-up  Area,2.0,1.0,41.0,Yes,1000.0
+Super built-up  Area,2.0,1.0,56.0,Yes,1082.0
+Super built-up  Area,4.0,2.0,130.0,Yes,2023.0
+Super built-up  Area,3.0,2.0,120.0,Yes,1862.0
+Super built-up  Area,2.0,2.0,78.0,Yes,1575.0
+Super built-up  Area,2.0,2.0,39.0,Yes,1215.0
+Super built-up  Area,2.0,1.0,42.6,Yes,1200.0
+Super built-up  Area,2.0,1.0,45.5,Yes,1082.0
+Built-up  Area,3.0,0.0,80.0,Yes,1600.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1180.0
+Built-up  Area,4.0,2.0,85.0,Yes,1890.0
+Super built-up  Area,3.0,2.0,140.0,Yes,1893.0
+Super built-up  Area,3.0,1.0,70.0,Yes,1577.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1059.0
+Built-up  Area,4.0,2.0,290.0,Yes,2550.0
+Super built-up  Area,1.0,1.0,45.0,Yes,870.0
+Super built-up  Area,3.0,3.0,78.0,Yes,1415.0
+Super built-up  Area,2.0,2.0,61.74,Yes,1470.0
+Super built-up  Area,3.0,1.0,140.0,Yes,1683.0
+Super built-up  Area,3.0,2.0,125.0,Yes,2017.0
+Super built-up  Area,2.0,1.0,49.0,Yes,1208.0
+Plot  Area,2.0,1.0,75.0,Yes,750.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1270.0
+Super built-up  Area,2.0,2.0,72.0,Yes,1139.0
+Built-up  Area,1.0,2.0,36.5,Yes,705.0
+Built-up  Area,2.0,3.0,235.0,Yes,1875.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1340.0
+Built-up  Area,2.0,2.0,68.0,Yes,1190.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1210.0
+Built-up  Area,3.0,2.0,265.0,Yes,2170.0
+Super built-up  Area,3.0,1.0,60.0,Yes,1305.0
+Super built-up  Area,2.0,2.0,56.5,Yes,1139.0
+Plot  Area,4.0,1.0,390.0,Yes,9000.0
+Built-up  Area,3.0,2.0,90.0,No,1558.0
+Super built-up  Area,2.0,2.0,43.0,Yes,1140.0
+Super built-up  Area,3.0,2.0,64.62,No,1795.0
+Super built-up  Area,2.0,1.0,51.0,Yes,984.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1200.0
+Built-up  Area,2.0,1.0,40.0,Yes,920.0
+Super built-up  Area,3.0,2.0,85.0,Yes,1705.0
+Super built-up  Area,2.0,2.0,84.18,Yes,1414.0
+Super built-up  Area,3.0,2.0,131.0,Yes,1910.0
+Super built-up  Area,3.0,1.0,75.0,Yes,1360.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,130.0,No,1703.0
+Plot  Area,5.0,3.0,285.0,No,2400.0
+Built-up  Area,4.0,3.0,173.0,Yes,2425.0
+Super built-up  Area,1.0,1.0,65.0,No,1000.0
+Super built-up  Area,2.0,2.0,95.0,Yes,1250.0
+Super built-up  Area,2.0,1.0,55.15,No,1161.0
+Built-up  Area,2.0,0.0,42.0,Yes,995.0
+Built-up  Area,2.0,2.0,47.0,Yes,914.0
+Super built-up  Area,3.0,2.0,95.84,Yes,1843.0
+Plot  Area,5.0,2.0,1675.0,Yes,8400.0
+Super built-up  Area,3.0,1.0,150.0,Yes,1850.0
+Super built-up  Area,3.0,2.0,111.0,Yes,1650.0
+Super built-up  Area,3.0,2.0,73.5,Yes,1530.0
+Super built-up  Area,2.0,0.0,49.475,Yes,717.0
+Built-up  Area,3.0,1.0,69.34,Yes,84.53
+Super built-up  Area,2.0,1.0,40.0,Yes,1020.0
+Super built-up  Area,4.0,1.0,200.0,Yes,2666.0
+Built-up  Area,2.0,1.0,145.0,Yes,1100.0
+Plot  Area,7.0,3.0,105.0,Yes,800.0
+Super built-up  Area,2.0,1.0,90.0,Yes,1460.0
+Super built-up  Area,3.0,0.0,77.0,No,1400.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1149.0
+Super built-up  Area,2.0,3.0,45.5,Yes,993.0
+Built-up  Area,3.0,2.0,75.0,Yes,1480.0
+Super built-up  Area,3.0,3.0,92.69,No,1938.0
+Built-up  Area,2.0,1.0,45.0,Yes,1000.0
+Super built-up  Area,3.0,3.0,95.0,Yes,1500.0
+Plot  Area,4.0,2.0,160.0,Yes,3000.0
+Super built-up  Area,2.0,2.0,52.0,Yes,1290.0
+Super built-up  Area,2.0,1.0,46.0,No,1000.0
+Built-up  Area,3.0,2.0,70.0,Yes,1625.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1043.0
+Super built-up  Area,2.0,1.0,35.53,Yes,935.0
+Plot  Area,6.0,2.0,60.0,Yes,600.0
+Super built-up  Area,3.0,1.0,110.0,Yes,1705.0
+Super built-up  Area,2.0,1.0,70.93,No,1140.0
+Built-up  Area,3.0,1.0,90.0,Yes,1200.0
+Super built-up  Area,2.0,0.0,43.415,No,1142.5
+Super built-up  Area,4.0,3.0,201.0,No,2690.0
+Plot  Area,3.0,2.0,500.0,Yes,2800.0
+Super built-up  Area,2.0,1.0,88.0,No,1350.0
+Super built-up  Area,2.0,2.0,36.0,Yes,725.0
+Super built-up  Area,4.0,2.0,155.0,Yes,2507.0
+Super built-up  Area,2.0,2.0,44.0,Yes,1092.0
+Built-up  Area,4.0,2.0,345.0,Yes,4041.0
+Super built-up  Area,4.0,3.0,1400.0,No,6500.0
+Plot  Area,2.0,0.0,65.0,Yes,1500.0
+Plot  Area,5.0,2.0,185.0,Yes,1034.0
+Super built-up  Area,3.0,2.0,63.0,Yes,1500.0
+Super built-up  Area,3.0,2.0,165.0,Yes,3300.0
+Super built-up  Area,2.0,1.0,86.0,No,1193.0
+Super built-up  Area,4.0,3.0,169.0,Yes,1200.0
+Plot  Area,4.0,1.0,81.0,Yes,600.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1370.0
+Plot  Area,2.0,0.0,40.0,Yes,1050.0
+Built-up  Area,3.0,1.0,64.0,Yes,1600.0
+Super built-up  Area,3.0,1.0,103.0,No,1513.0
+Super built-up  Area,2.0,2.0,82.0,Yes,1285.0
+Built-up  Area,3.0,3.0,240.0,Yes,2150.0
+Plot  Area,4.0,1.0,69.0,Yes,2000.0
+Built-up  Area,2.0,2.0,55.0,Yes,1190.0
+Built-up  Area,2.0,2.0,55.0,Yes,1060.0
+Built-up  Area,2.0,2.0,72.0,Yes,1220.0
+Plot  Area,1.0,0.0,14.0,Yes,400.0
+Super built-up  Area,2.0,1.0,60.0,Yes,1155.0
+Super built-up  Area,2.0,1.0,55.47,Yes,1295.0
+Plot  Area,4.0,2.0,105.0,Yes,2200.0
+Built-up  Area,3.0,3.0,145.0,Yes,1726.0
+Plot  Area,2.0,1.0,160.0,Yes,1600.0
+Built-up  Area,2.0,1.0,30.0,Yes,904.0
+Plot  Area,3.0,1.0,90.0,No,1000.0
+Super built-up  Area,3.0,2.0,72.0,Yes,600.0
+Super built-up  Area,2.0,3.0,57.0,Yes,1388.0
+Super built-up  Area,3.0,2.0,55.0,Yes,1625.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1500.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1400.0
+Super built-up  Area,2.0,2.0,45.56,No,1125.0
+Super built-up  Area,2.0,2.0,60.8,Yes,1325.0
+Built-up  Area,2.0,3.0,75.0,Yes,1055.0
+Super built-up  Area,2.0,2.0,67.0,Yes,1190.0
+Super built-up  Area,2.0,1.0,60.0,Yes,1046.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1220.0
+Super built-up  Area,1.0,1.0,36.85,Yes,667.0
+Super built-up  Area,2.0,2.0,44.0,Yes,1185.0
+Super built-up  Area,3.0,3.0,110.0,No,1550.0
+Built-up  Area,3.0,1.0,220.0,Yes,1800.0
+Super built-up  Area,2.0,1.0,54.0,Yes,1070.0
+Plot  Area,5.0,3.0,800.0,No,4025.0
+Super built-up  Area,3.0,2.0,126.0,Yes,1825.0
+Super built-up  Area,3.0,2.0,140.0,Yes,1933.0
+Super built-up  Area,2.0,1.0,52.0,No,1160.0
+Super built-up  Area,3.0,2.0,90.0,Yes,1449.0
+Super built-up  Area,3.0,2.0,275.0,Yes,1718.0
+Super built-up  Area,2.0,1.0,65.0,No,1340.0
+Super built-up  Area,1.0,1.0,53.0,Yes,656.0
+Plot  Area,3.0,1.0,62.0,Yes,780.0
+Super built-up  Area,2.0,1.0,54.0,Yes,1090.0
+Plot  Area,2.0,1.0,78.0,No,1400.0
+Super built-up  Area,2.0,2.0,90.0,Yes,1550.0
+Plot  Area,4.0,2.0,140.0,Yes,2675.0
+Super built-up  Area,2.0,1.0,39.77,No,1005.0
+Super built-up  Area,2.0,2.0,52.2,Yes,1160.0
+Plot  Area,5.0,2.0,550.0,Yes,4300.0
+Built-up  Area,2.0,3.0,45.0,Yes,1400.0
+Super built-up  Area,2.0,1.0,38.0,Yes,1050.0
+Super built-up  Area,2.0,1.0,98.2,Yes,1349.0
+Super built-up  Area,2.0,2.0,26.85,No,1074.0
+Plot  Area,2.0,1.0,60.0,Yes,1500.0
+Super built-up  Area,2.0,1.0,86.96,No,1705.0
+Built-up  Area,2.0,1.0,55.0,Yes,1060.0
+Built-up  Area,1.0,0.0,70.0,Yes,500.0
+Super built-up  Area,2.0,3.0,85.0,Yes,1733.0
+Plot  Area,2.0,1.0,75.0,Yes,800.0
+Plot  Area,3.0,2.0,65.0,Yes,1200.0
+Plot  Area,5.0,3.0,250.0,Yes,1222.0
+Plot  Area,9.0,2.0,200.0,Yes,1560.0
+Plot  Area,3.0,2.0,68.5,No,1200.0
+Plot  Area,5.0,3.0,265.0,Yes,1500.0
+Super built-up  Area,3.0,3.0,95.0,Yes,1850.0
+Built-up  Area,2.0,1.0,48.0,Yes,1050.0
+Built-up  Area,1.0,1.0,17.0,Yes,650.0
+Super built-up  Area,1.0,0.0,34.27,Yes,745.0
+Super built-up  Area,2.0,2.0,35.0,No,1200.0
+Plot  Area,2.0,1.0,170.0,Yes,1200.0
+Plot  Area,4.0,2.0,85.0,Yes,930.0
+Built-up  Area,2.0,2.0,61.8,Yes,1190.0
+Plot  Area,2.0,2.0,177.115,No,3752.5
+Super built-up  Area,1.0,0.0,32.82,No,663.0
+Super built-up  Area,5.0,2.0,225.0,Yes,3122.0
+Super built-up  Area,3.0,3.0,53.12,Yes,1571.0
+Super built-up  Area,1.0,0.0,45.0,Yes,600.0
+Built-up  Area,2.0,1.0,32.49,No,1125.0
+Super built-up  Area,2.0,1.0,47.0,Yes,1300.0
+Super built-up  Area,2.0,1.0,90.0,No,1274.0
+Built-up  Area,2.0,1.0,78.65,Yes,1430.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1075.0
+Plot  Area,4.0,2.0,105.0,Yes,600.0
+Plot  Area,4.0,2.0,225.0,Yes,1200.0
+Plot  Area,1.0,0.0,90.0,Yes,880.0
+Super built-up  Area,2.0,2.0,39.0,Yes,1151.0
+Built-up  Area,2.0,1.0,40.43,No,1400.0
+Super built-up  Area,3.0,3.0,90.0,Yes,1800.0
+Built-up  Area,2.0,1.0,40.05,No,1068.0
+Super built-up  Area,1.0,1.0,42.0,Yes,662.0
+Built-up  Area,2.0,2.0,155.0,No,2264.0
+Plot  Area,4.0,2.0,175.0,Yes,2700.0
+Super built-up  Area,2.0,1.0,73.87,No,1205.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1350.0
+Super built-up  Area,3.0,3.0,54.0,Yes,1230.0
+Super built-up  Area,3.0,1.0,150.0,Yes,1876.0
+Super built-up  Area,2.0,1.0,32.37,No,1079.0
+Super built-up  Area,2.0,2.0,87.8,No,1430.0
+Super built-up  Area,3.0,2.0,110.0,Yes,1697.0
+Super built-up  Area,3.0,3.0,97.38,Yes,1651.0
+Super built-up  Area,2.0,1.0,29.47,Yes,921.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1100.0
+Super built-up  Area,2.0,2.0,35.0,Yes,1075.0
+Super built-up  Area,2.0,3.0,50.0,Yes,2400.0
+Super built-up  Area,3.0,0.0,54.54,No,1350.0
+Super built-up  Area,5.0,3.0,716.0,Yes,3522.0
+Super built-up  Area,2.0,1.0,58.56,Yes,1247.0
+Super built-up  Area,2.0,1.0,29.0,Yes,674.0
+Built-up  Area,1.0,1.0,39.0,No,813.0
+Super built-up  Area,4.0,2.0,120.0,Yes,1950.0
+Super built-up  Area,3.0,2.0,132.0,Yes,1754.0
+Super built-up  Area,2.0,2.0,77.0,Yes,1400.0
+Super built-up  Area,2.0,1.0,66.33,No,1340.0
+Built-up  Area,6.0,2.0,101.0,Yes,1034.0
+Plot  Area,1.0,0.0,100.0,Yes,896.0
+Super built-up  Area,2.0,1.0,86.12,No,1332.0
+Super built-up  Area,2.0,1.0,67.76,No,1334.0
+Built-up  Area,2.0,1.0,58.0,No,1243.0
+Super built-up  Area,3.0,2.0,390.0,Yes,3895.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1280.0
+Super built-up  Area,2.0,3.0,39.35,Yes,1036.0
+Super built-up  Area,1.0,1.0,43.0,Yes,656.0
+Super built-up  Area,2.0,2.0,95.0,Yes,1309.0
+Super built-up  Area,3.0,2.0,110.0,Yes,1880.0
+Plot  Area,6.0,3.0,150.0,Yes,1500.0
+Super built-up  Area,3.0,2.0,199.0,No,2600.0
+Super built-up  Area,2.0,2.0,140.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,39.5,Yes,1345.0
+Super built-up  Area,2.0,1.0,45.9,Yes,1530.0
+Super built-up  Area,5.0,3.0,210.0,Yes,3537.0
+Super built-up  Area,1.0,0.0,39.9,No,950.0
+Plot  Area,3.0,2.0,201.0,Yes,2010.0
+Built-up  Area,3.0,0.0,110.0,Yes,1738.0
+Super built-up  Area,2.0,1.0,49.0,Yes,1151.0
+Super built-up  Area,2.0,2.0,46.37,Yes,1105.0
+Super built-up  Area,2.0,1.0,40.0,No,900.0
+Super built-up  Area,2.0,1.0,150.0,No,1916.0
+Plot  Area,4.0,2.0,125.0,Yes,1200.0
+Plot  Area,1.0,1.0,150.0,Yes,1806.0
+Super built-up  Area,2.0,1.0,96.0,Yes,1196.0
+Built-up  Area,3.0,0.0,60.0,Yes,1350.0
+Super built-up  Area,6.0,2.0,280.0,Yes,3785.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1545.0
+Super built-up  Area,3.0,3.0,115.0,Yes,2225.0
+Plot  Area,5.0,1.0,145.0,Yes,1560.0
+Super built-up  Area,3.0,2.0,139.0,Yes,2140.0
+Super built-up  Area,4.0,3.0,315.0,Yes,2770.0
+Super built-up  Area,3.0,1.0,138.0,No,1960.0
+Plot  Area,4.0,2.0,70.0,Yes,600.0
+Super built-up  Area,2.0,1.0,55.0,Yes,1060.0
+Built-up  Area,2.0,1.0,31.48,No,1090.0
+Super built-up  Area,3.0,2.0,140.0,Yes,1850.0
+Plot  Area,3.0,0.0,200.0,Yes,1200.0
+Super built-up  Area,3.0,3.0,180.0,Yes,1870.0
+Plot  Area,3.0,2.0,68.0,Yes,1800.0
+Plot  Area,2.0,1.0,66.0,No,1200.0
+Plot  Area,4.0,3.0,155.0,No,900.0
+Super built-up  Area,2.0,1.0,50.11,No,1169.0
+Super built-up  Area,2.0,1.0,62.0,Yes,1050.0
+Super built-up  Area,2.0,1.0,56.7,Yes,1255.0
+Plot  Area,6.0,3.0,375.0,Yes,5100.0
+Super built-up  Area,3.0,2.0,120.0,Yes,2050.0
+Super built-up  Area,1.0,1.0,60.84,No,923.0
+Super built-up  Area,1.0,1.0,10.25,Yes,400.0
+Super built-up  Area,2.0,1.0,65.0,No,1152.0
+Plot  Area,2.0,2.0,124.0,No,3817.0
+Plot  Area,2.0,1.0,150.0,Yes,2400.0
+Super built-up  Area,2.0,1.0,22.34,Yes,545.0
+Plot  Area,2.0,0.0,175.0,Yes,1350.0
+Plot  Area,4.0,2.0,615.0,Yes,2280.0
+Super built-up  Area,3.0,3.0,68.0,Yes,1553.0
+Built-up  Area,2.0,1.0,25.0,Yes,950.0
+Super built-up  Area,2.0,2.0,47.32,No,1157.0
+Plot  Area,1.0,1.0,27.0,Yes,672.0
+Plot  Area,8.0,2.0,250.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,80.0,Yes,1690.0
+Super built-up  Area,3.0,2.0,81.0,Yes,1400.0
+Super built-up  Area,1.0,0.0,13.86,No,630.0
+Super built-up  Area,2.0,1.0,83.87,Yes,1407.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1310.0
+Built-up  Area,2.0,1.0,90.0,Yes,1421.0
+Super built-up  Area,2.0,2.0,48.51,No,1427.0
+Super built-up  Area,2.0,1.0,98.86,Yes,1163.0
+Super built-up  Area,3.0,2.0,268.0,Yes,1640.0
+Super built-up  Area,2.0,2.0,43.0,Yes,1007.0
+Built-up  Area,2.0,3.0,61.0,Yes,1030.0
+Built-up  Area,2.0,2.0,60.0,Yes,1530.0
+Super built-up  Area,3.0,2.0,155.0,No,1662.0
+Super built-up  Area,4.0,1.0,180.0,Yes,1900.0
+Super built-up  Area,1.0,0.0,45.4,Yes,762.5
+Super built-up  Area,1.0,0.0,40.7,Yes,925.0
+Plot  Area,9.0,1.0,145.0,Yes,1200.0
+Super built-up  Area,4.0,2.0,125.0,Yes,1965.0
+Super built-up  Area,3.0,2.0,77.5,Yes,1414.0
+Super built-up  Area,2.0,2.0,42.0,Yes,1060.0
+Super built-up  Area,4.0,1.0,135.0,No,2600.0
+Built-up  Area,2.0,2.0,40.0,Yes,1206.0
+Super built-up  Area,2.0,1.0,69.06,No,1216.0
+Super built-up  Area,3.0,3.0,98.97,Yes,1720.0
+Super built-up  Area,4.0,1.0,223.0,Yes,2650.0
+Built-up  Area,3.0,2.0,295.0,Yes,2690.0
+Super built-up  Area,5.0,0.0,157.5,No,2856.0
+Built-up  Area,5.0,0.0,176.0,No,3913.0
+Super built-up  Area,3.0,3.0,57.39,Yes,1693.0
+Super built-up  Area,2.0,1.0,79.0,Yes,1230.0
+Built-up  Area,2.0,2.0,100.0,Yes,1190.0
+Super built-up  Area,3.0,2.0,85.5,Yes,1650.0
+Super built-up  Area,2.0,2.0,55.47,Yes,1295.0
+Super built-up  Area,2.0,2.0,72.0,Yes,1340.0
+Built-up  Area,2.0,1.0,36.5,Yes,600.0
+Super built-up  Area,3.0,2.0,130.0,No,1985.0
+Super built-up  Area,2.0,2.0,38.0,Yes,1100.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1525.0
+Super built-up  Area,3.0,1.0,120.0,No,1868.0
+Super built-up  Area,2.0,2.0,98.77,Yes,1162.0
+Super built-up  Area,2.0,2.0,63.0,Yes,1485.0
+Super built-up  Area,2.0,1.0,56.0,Yes,1330.0
+Built-up  Area,2.0,0.0,65.0,Yes,1200.0
+Built-up  Area,8.0,2.0,275.0,Yes,1200.0
+Super built-up  Area,3.0,1.0,110.0,Yes,1683.0
+Super built-up  Area,3.0,2.0,125.0,Yes,2437.0
+Plot  Area,3.0,0.0,85.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,95.0,Yes,1335.0
+Super built-up  Area,4.0,2.0,125.0,Yes,1935.0
+Carpet  Area,2.0,2.0,65.0,Yes,1100.0
+Super built-up  Area,2.0,3.0,52.0,Yes,1394.0
+Built-up  Area,2.0,3.0,31.0,Yes,950.0
+Super built-up  Area,2.0,3.0,45.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,71.0,Yes,1098.0
+Super built-up  Area,3.0,2.0,138.0,No,1870.0
+Built-up  Area,2.0,1.0,145.0,Yes,900.0
+Super built-up  Area,1.0,2.0,65.01,Yes,1512.0
+Super built-up  Area,2.0,2.0,37.0,Yes,1116.0
+Super built-up  Area,4.0,2.0,90.0,Yes,1050.0
+Super built-up  Area,5.0,3.0,386.0,No,3960.0
+Super built-up  Area,2.0,2.0,57.0,Yes,1345.0
+Plot  Area,4.0,2.0,125.0,Yes,750.0
+Super built-up  Area,2.0,1.0,285.0,Yes,2292.0
+Super built-up  Area,3.0,2.0,93.5,No,1700.0
+Built-up  Area,3.0,2.0,75.0,Yes,1375.0
+Super built-up  Area,2.0,1.0,79.0,Yes,1265.0
+Built-up  Area,3.0,0.0,95.0,Yes,1596.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1330.0
+Plot  Area,5.0,2.0,325.0,Yes,1200.0
+Built-up  Area,2.0,1.0,93.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,50.0,Yes,1450.0
+Super built-up  Area,3.0,1.0,120.0,Yes,1704.0
+Super built-up  Area,1.0,2.0,25.0,Yes,750.0
+Super built-up  Area,2.0,2.0,42.0,Yes,900.0
+Built-up  Area,3.0,2.0,230.0,Yes,2700.0
+Super built-up  Area,2.0,1.0,79.0,Yes,1205.0
+Super built-up  Area,2.0,1.0,40.0,Yes,900.0
+Plot  Area,4.0,0.0,110.0,No,1240.0
+Built-up  Area,1.0,0.0,20.03,Yes,425.0
+Super built-up  Area,1.0,1.0,38.0,Yes,700.0
+Super built-up  Area,1.0,1.0,13.5,No,530.0
+Super built-up  Area,4.0,2.0,110.0,Yes,1880.0
+Plot  Area,4.0,3.0,175.0,Yes,1740.0
+Plot  Area,5.0,0.0,275.0,Yes,3500.0
+Super built-up  Area,3.0,1.0,93.04,No,1411.0
+Super built-up  Area,5.0,3.0,187.0,No,2658.0
+Super built-up  Area,3.0,2.0,113.0,Yes,2721.0
+Super built-up  Area,3.0,1.0,125.0,Yes,1690.0
+Built-up  Area,4.0,3.0,260.0,Yes,3027.0
+Plot  Area,1.0,0.0,50.0,Yes,600.0
+Super built-up  Area,4.0,3.0,185.0,Yes,2439.0
+Super built-up  Area,2.0,2.0,46.0,Yes,1021.0
+Super built-up  Area,5.0,3.0,309.0,Yes,3200.0
+Super built-up  Area,2.0,2.0,33.6,Yes,1095.0
+Plot  Area,2.0,1.0,216.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1380.0
+Super built-up  Area,2.0,2.0,52.8,Yes,1150.0
+Super built-up  Area,4.0,1.0,104.0,No,2093.0
+Super built-up  Area,2.0,3.0,90.0,Yes,1475.0
+Super built-up  Area,2.0,2.0,70.0,Yes,1404.0
+Super built-up  Area,3.0,2.0,334.0,Yes,2386.0
+Super built-up  Area,2.0,3.0,60.0,Yes,1455.0
+Built-up  Area,3.0,2.0,120.0,Yes,1653.0
+Plot  Area,4.0,1.0,225.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,90.0,Yes,1255.0
+Super built-up  Area,2.0,3.0,46.38,No,1364.0
+Super built-up  Area,3.0,2.0,98.0,Yes,1620.0
+Plot  Area,5.0,0.0,70.0,Yes,1800.0
+Built-up  Area,3.0,2.0,68.0,Yes,2700.0
+Plot  Area,4.0,0.0,88.0,Yes,800.0
+Super built-up  Area,2.0,2.0,74.0,Yes,1192.0
+Super built-up  Area,2.0,2.0,49.0,Yes,1033.0
+Super built-up  Area,3.0,1.0,65.0,Yes,1450.0
+Super built-up  Area,2.0,1.0,62.0,No,1112.0
+Plot  Area,2.0,0.0,225.0,Yes,1314.0
+Super built-up  Area,4.0,2.0,200.0,Yes,4000.0
+Plot  Area,5.0,2.0,110.0,Yes,600.0
+Super built-up  Area,1.0,1.0,22.0,Yes,435.0
+Super built-up  Area,2.0,1.0,46.0,Yes,1141.0
+Super built-up  Area,2.0,3.0,62.55,Yes,1390.0
+Built-up  Area,3.0,1.0,100.0,Yes,2050.0
+Super built-up  Area,3.0,3.0,67.49,Yes,1500.0
+Plot  Area,2.0,2.0,138.0,Yes,960.0
+Built-up  Area,3.0,2.0,68.0,Yes,1400.0
+Super built-up  Area,2.0,2.0,26.49,Yes,1140.0
+Super built-up  Area,3.0,3.0,150.0,Yes,1800.0
+Super built-up  Area,3.0,3.0,200.0,Yes,2003.0
+Built-up  Area,3.0,1.0,57.0,Yes,1325.0
+Built-up  Area,2.0,3.0,44.0,Yes,1107.0
+Super built-up  Area,3.0,1.0,62.0,No,1635.0
+Built-up  Area,3.0,0.0,140.0,Yes,1567.0
+Super built-up  Area,2.0,2.0,44.0,Yes,1145.0
+Super built-up  Area,3.0,0.0,45.03,No,1225.0
+Plot  Area,3.0,2.0,100.0,Yes,500.0
+Plot  Area,3.0,1.0,140.0,No,2238.0
+Built-up  Area,4.0,3.0,325.0,Yes,3309.0
+Super built-up  Area,2.0,1.0,45.84,No,1200.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1280.0
+Plot  Area,3.0,2.0,60.0,Yes,600.0
+Super built-up  Area,2.0,1.0,37.0,No,982.0
+Super built-up  Area,2.0,2.0,84.0,Yes,1480.0
+Built-up  Area,2.0,2.0,125.0,Yes,1150.0
+Super built-up  Area,3.0,3.0,80.51,No,1644.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1425.0
+Super built-up  Area,2.0,2.0,49.88,Yes,1425.0
+Super built-up  Area,3.0,2.0,165.0,Yes,1875.0
+Super built-up  Area,6.0,3.0,180.0,Yes,3000.0
+Plot  Area,2.0,0.0,56.0,Yes,860.0
+Built-up  Area,2.0,2.0,65.0,Yes,1270.0
+Super built-up  Area,2.0,2.0,53.51,Yes,1230.0
+Super built-up  Area,2.0,3.0,25.0,No,1000.0
+Super built-up  Area,2.0,2.0,99.13,Yes,1525.0
+Super built-up  Area,2.0,1.0,34.82,Yes,995.0
+Super built-up  Area,3.0,2.0,86.0,Yes,1556.0
+Built-up  Area,4.0,1.0,115.0,Yes,1280.0
+Built-up  Area,2.0,1.0,78.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,140.0,Yes,2144.0
+Super built-up  Area,3.0,2.0,92.0,Yes,1732.46
+Super built-up  Area,3.0,1.0,57.0,No,1635.0
+Super built-up  Area,3.0,3.0,56.0,Yes,1464.0
+Super built-up  Area,3.0,1.0,150.0,Yes,1600.0
+Plot  Area,9.0,3.0,450.0,Yes,3280.0
+Super built-up  Area,2.0,1.0,40.6,No,1003.0
+Built-up  Area,2.0,2.0,30.0,Yes,820.0
+Super built-up  Area,2.0,1.0,72.0,Yes,1365.0
+Super built-up  Area,2.0,3.0,50.06,Yes,1410.0
+Super built-up  Area,2.0,1.0,40.0,No,1157.0
+Super built-up  Area,1.0,1.0,20.0,No,509.0
+Built-up  Area,2.0,3.0,70.0,Yes,1540.0
+Plot  Area,6.0,3.0,105.0,Yes,970.0
+Super built-up  Area,2.0,2.0,30.43,No,951.0
+Super built-up  Area,2.0,1.0,54.0,Yes,1210.0
+Built-up  Area,3.0,1.0,90.0,Yes,1400.0
+Super built-up  Area,2.0,2.0,250.0,No,2526.0
+Built-up  Area,1.0,1.0,17.0,Yes,650.0
+Super built-up  Area,2.0,2.0,80.99,Yes,1350.0
+Super built-up  Area,5.0,2.0,240.0,Yes,3520.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1056.0
+Super built-up  Area,2.0,2.0,44.17,Yes,1303.0
+Super built-up  Area,2.0,1.0,70.0,Yes,1085.0
+Plot  Area,6.0,2.0,140.0,Yes,1200.0
+Plot  Area,1.0,1.0,60.0,Yes,600.0
+Built-up  Area,2.0,3.0,52.0,Yes,1550.0
+Plot  Area,5.0,1.0,140.0,Yes,1800.0
+Plot  Area,2.0,0.0,150.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,37.1,Yes,1100.0
+Super built-up  Area,3.0,3.0,80.0,Yes,1541.0
+Plot  Area,3.0,0.0,70.0,Yes,1168.0
+Super built-up  Area,4.0,1.0,165.0,Yes,2285.0
+Built-up  Area,2.0,2.0,45.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,78.0,Yes,1311.0
+Built-up  Area,3.0,3.0,50.0,Yes,1470.0
+Plot  Area,7.0,2.0,139.0,Yes,1200.0
+Super built-up  Area,2.0,0.0,35.0,Yes,920.0
+Super built-up  Area,2.0,2.0,43.5,Yes,1088.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1925.0
+Super built-up  Area,2.0,1.0,42.6,Yes,1065.0
+Super built-up  Area,2.0,1.0,66.0,Yes,1170.0
+Super built-up  Area,2.0,1.0,49.0,Yes,1020.0
+Plot  Area,3.0,2.0,75.0,Yes,600.0
+Super built-up  Area,2.0,2.0,44.08,Yes,1160.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1310.0
+Built-up  Area,2.0,1.0,64.0,Yes,1330.0
+Built-up  Area,3.0,2.0,70.0,Yes,1640.0
+Built-up  Area,2.0,2.0,65.0,Yes,1360.0
+Plot  Area,4.0,2.0,750.0,Yes,5400.0
+Super built-up  Area,2.0,2.0,48.0,Yes,1100.0
+Built-up  Area,2.0,1.0,33.65,No,1165.0
+Plot  Area,4.0,2.0,65.0,Yes,1260.0
+Super built-up  Area,3.0,2.0,48.0,Yes,1244.0
+Super built-up  Area,2.0,2.0,56.12,Yes,1290.0
+Built-up  Area,2.0,1.0,33.5,No,1160.0
+Plot  Area,3.0,1.0,68.4,No,1200.0
+Super built-up  Area,2.0,2.0,40.0,Yes,921.0
+Plot  Area,2.0,0.0,78.0,No,935.0
+Super built-up  Area,1.0,2.0,25.75,Yes,1030.0
+Super built-up  Area,3.0,2.0,56.0,Yes,1600.0
+Plot  Area,1.0,0.0,37.5,Yes,1500.0
+Super built-up  Area,2.0,1.0,65.0,No,1128.0
+Super built-up  Area,3.0,1.0,90.0,Yes,1800.0
+Super built-up  Area,5.0,3.0,500.0,Yes,3000.0
+Super built-up  Area,1.0,1.0,33.0,Yes,565.0
+Super built-up  Area,2.0,1.0,45.0,Yes,910.0
+Super built-up  Area,2.0,2.0,180.0,No,1900.0
+Super built-up  Area,2.0,2.0,42.0,Yes,1200.0
+Super built-up  Area,6.0,2.0,650.0,Yes,4600.0
+Super built-up  Area,1.0,1.0,21.0,Yes,674.0
+Super built-up  Area,2.0,1.0,80.0,Yes,1290.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1301.0
+Super built-up  Area,2.0,0.0,68.0,Yes,1050.0
+Plot  Area,9.0,1.0,180.0,Yes,1800.0
+Super built-up  Area,2.0,2.0,55.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,54.0,Yes,1100.0
+Super built-up  Area,2.0,1.0,120.0,Yes,1300.0
+Super built-up  Area,2.0,1.0,59.9,Yes,1162.0
+Super built-up  Area,3.0,1.0,194.0,No,1700.0
+Plot  Area,2.0,2.0,29.5,No,30.0
+Super built-up  Area,2.0,0.0,115.0,Yes,1716.0
+Super built-up  Area,2.0,1.0,30.75,No,1065.0
+Built-up  Area,2.0,2.0,110.0,Yes,1250.0
+Super built-up  Area,2.0,2.0,48.5,Yes,1243.0
+Super built-up  Area,3.0,2.0,864.0,Yes,3875.0
+Super built-up  Area,2.0,3.0,40.63,No,1290.0
+Super built-up  Area,3.0,3.0,49.0,Yes,1590.0
+Super built-up  Area,2.0,1.0,42.16,No,1130.0
+Plot  Area,5.0,2.0,85.0,Yes,600.0
+Built-up  Area,2.0,0.0,43.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,58.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,65.0,Yes,1758.0
+Built-up  Area,3.0,2.0,180.0,Yes,1800.0
+Built-up  Area,3.0,2.0,98.0,No,1677.0
+Super built-up  Area,3.0,2.0,113.0,No,1645.0
+Built-up  Area,3.0,0.0,96.9,Yes,1615.0
+Super built-up  Area,2.0,1.0,50.17,No,985.0
+Super built-up  Area,3.0,2.0,91.84,No,1563.0
+Built-up  Area,2.0,1.0,45.87,Yes,1465.0
+Super built-up  Area,2.0,1.0,68.0,Yes,1215.0
+Super built-up  Area,2.0,2.0,65.0,No,1170.0
+Super built-up  Area,3.0,2.0,97.0,Yes,1566.0
+Plot  Area,5.0,2.0,160.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,67.0,Yes,1485.0
+Super built-up  Area,3.0,2.0,108.0,No,1693.0
+Built-up  Area,2.0,1.0,49.0,Yes,956.0
+Super built-up  Area,4.0,2.0,602.0,No,4209.0
+Super built-up  Area,3.0,2.0,75.0,Yes,1560.0
+Super built-up  Area,2.0,2.0,61.0,Yes,1152.0
+Super built-up  Area,4.0,2.0,250.0,Yes,2950.0
+Built-up  Area,1.0,1.0,80.0,Yes,1400.0
+Super built-up  Area,2.0,1.0,29.0,Yes,845.0
+Plot  Area,3.0,1.0,98.0,Yes,600.0
+Plot  Area,2.0,0.0,29.0,Yes,520.0
+Super built-up  Area,3.0,2.0,90.0,No,1586.0
+Super built-up  Area,3.0,3.0,64.86,Yes,1530.0
+Built-up  Area,2.0,0.0,87.0,Yes,1500.0
+Super built-up  Area,4.0,2.0,300.0,Yes,2302.0
+Super built-up  Area,2.0,1.0,108.0,Yes,1530.0
+Super built-up  Area,3.0,2.0,150.0,No,1934.0
+Built-up  Area,4.0,2.0,105.0,No,1200.0
+Super built-up  Area,4.0,3.0,92.0,Yes,2100.0
+Built-up  Area,2.0,1.0,33.51,No,1160.0
+Super built-up  Area,3.0,1.0,90.0,Yes,1610.0
+Super built-up  Area,2.0,2.0,78.0,Yes,1178.0
+Super built-up  Area,2.0,0.0,58.935,No,1122.5
+Super built-up  Area,3.0,2.0,285.0,Yes,2280.0
+Plot  Area,8.0,2.0,150.0,Yes,750.0
+Super built-up  Area,2.0,1.0,105.0,Yes,1275.0
+Super built-up  Area,3.0,1.0,104.0,Yes,1584.01
+Plot  Area,3.0,1.0,110.0,Yes,1150.0
+Super built-up  Area,2.0,1.0,70.0,Yes,1288.0
+Super built-up  Area,3.0,3.0,46.56,No,1330.0
+Super built-up  Area,3.0,3.0,106.0,Yes,1856.0
+Plot  Area,3.0,1.0,56.12,No,1200.0
+Super built-up  Area,3.0,1.0,180.0,Yes,1700.0
+Super built-up  Area,2.0,2.0,52.1,Yes,1050.0
+Super built-up  Area,3.0,2.0,82.0,Yes,1800.0
+Built-up  Area,3.0,3.0,98.0,Yes,1850.0
+Built-up  Area,2.0,2.0,60.0,Yes,1300.0
+Built-up  Area,2.0,2.0,49.0,Yes,952.0
+Super built-up  Area,5.0,0.0,300.0,Yes,2849.0
+Plot  Area,4.0,1.0,140.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,90.0,Yes,1540.0
+Super built-up  Area,2.0,1.0,92.0,Yes,1255.0
+Super built-up  Area,3.0,3.0,69.0,Yes,1600.0
+Super built-up  Area,2.0,2.0,44.0,Yes,1027.0
+Built-up  Area,3.0,2.0,147.0,No,2600.0
+Plot  Area,4.0,2.0,239.0,No,1500.0
+Super built-up  Area,2.0,1.0,83.0,Yes,1270.0
+Plot  Area,3.0,1.0,77.0,Yes,832.0
+Built-up  Area,3.0,0.0,69.1,Yes,1600.0
+Super built-up  Area,2.0,2.0,46.45,Yes,1330.0
+Super built-up  Area,2.0,2.0,45.0,Yes,840.0
+Super built-up  Area,2.0,2.0,98.0,No,1250.0
+Super built-up  Area,2.0,3.0,100.0,Yes,1290.0
+Super built-up  Area,3.0,2.0,90.0,Yes,1870.0
+Built-up  Area,2.0,1.0,70.0,Yes,1310.0
+Super built-up  Area,1.0,1.0,51.0,No,750.0
+Built-up  Area,2.0,2.0,100.0,Yes,1725.0
+Super built-up  Area,3.0,2.0,85.5,Yes,1820.0
+Built-up  Area,2.0,1.0,115.0,Yes,1115.0
+Super built-up  Area,2.0,2.0,38.0,Yes,1010.0
+Super built-up  Area,2.0,2.0,47.0,Yes,1254.0
+Super built-up  Area,2.0,3.0,85.0,Yes,1542.0
+Super built-up  Area,2.0,1.0,35.23,No,1220.0
+Super built-up  Area,2.0,1.0,46.0,Yes,1070.0
+Super built-up  Area,3.0,3.0,120.0,Yes,2185.0
+Super built-up  Area,3.0,2.0,65.0,Yes,1250.0
+Plot  Area,4.0,2.0,180.0,Yes,1800.0
+Built-up  Area,2.0,0.0,40.0,Yes,865.0
+Super built-up  Area,2.0,2.0,39.5,Yes,1000.0
+Super built-up  Area,2.0,2.0,36.0,Yes,1130.0
+Plot  Area,5.0,2.0,360.0,Yes,2403.0
+Super built-up  Area,2.0,1.0,54.3,Yes,1087.0
+Plot  Area,3.0,2.0,75.0,Yes,675.0
+Super built-up  Area,3.0,1.0,37.75,Yes,1319.0
+Super built-up  Area,3.0,3.0,64.7,Yes,1550.0
+Super built-up  Area,2.0,1.0,69.0,No,1210.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1063.0
+Super built-up  Area,2.0,1.0,45.0,Yes,1100.0
+Super built-up  Area,2.0,2.0,85.0,Yes,1100.0
+Super built-up  Area,3.0,1.0,74.18,No,1484.0
+Super built-up  Area,2.0,2.0,40.5,Yes,1200.0
+Super built-up  Area,2.0,2.0,108.0,Yes,1400.0
+Super built-up  Area,1.0,0.0,38.46,No,777.0
+Super built-up  Area,2.0,1.0,62.0,Yes,1071.0
+Built-up  Area,2.0,2.0,90.0,Yes,1575.0
+Super built-up  Area,2.0,0.0,75.0,Yes,1375.0
+Super built-up  Area,2.0,1.0,42.81,Yes,1223.0
+Super built-up  Area,2.0,2.0,41.0,No,1185.0
+Super built-up  Area,2.0,1.0,56.17,Yes,1370.0
+Super built-up  Area,2.0,2.0,46.0,Yes,1040.0
+Super built-up  Area,2.0,1.0,44.0,Yes,1075.0
+Carpet  Area,3.0,1.0,88.91,No,1053.4
+Super built-up  Area,3.0,2.0,275.0,No,2023.71
+Super built-up  Area,2.0,1.0,40.0,Yes,800.0
+Built-up  Area,2.0,1.0,75.0,Yes,1012.0
+Super built-up  Area,2.0,1.0,41.16,Yes,1100.0
+Built-up  Area,3.0,2.0,74.0,Yes,1400.0
+Plot  Area,3.0,1.0,56.0,No,1200.0
+Built-up  Area,2.0,0.0,90.0,Yes,1200.0
+Built-up  Area,3.0,2.0,56.0,Yes,1267.0
+Plot  Area,1.0,1.0,48.0,Yes,1.0
+Built-up  Area,1.0,1.0,60.0,No,630.0
+Super built-up  Area,2.0,2.0,56.0,Yes,1565.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1040.0
+Super built-up  Area,4.0,3.0,230.0,No,3067.0
+Super built-up  Area,2.0,2.0,40.0,Yes,1140.0
+Super built-up  Area,2.0,1.0,68.0,Yes,1100.0
+Built-up  Area,2.0,1.0,45.0,Yes,980.0
+Super built-up  Area,4.0,0.0,106.0,No,1974.0
+Super built-up  Area,2.0,2.0,61.28,No,1495.0
+Plot  Area,2.0,0.0,510.0,Yes,3000.0
+Plot  Area,3.0,2.0,148.0,Yes,2250.0
+Super built-up  Area,2.0,1.0,78.0,Yes,1375.0
+Built-up  Area,3.0,2.0,200.0,Yes,2700.0
+Super built-up  Area,2.0,0.0,56.725,No,1172.0
+Super built-up  Area,2.0,1.0,39.0,Yes,1096.0
+Plot  Area,4.0,2.0,160.0,Yes,1350.0
+Super built-up  Area,3.0,3.0,78.3,Yes,1350.0
+Super built-up  Area,2.0,2.0,40.0,Yes,1215.0
+Super built-up  Area,2.0,1.0,70.5,Yes,1655.0
+Built-up  Area,3.0,3.0,100.0,Yes,1645.0
+Super built-up  Area,2.0,3.0,70.0,Yes,1537.0
+Super built-up  Area,2.0,1.0,56.0,Yes,1328.0
+Built-up  Area,2.0,2.0,55.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,800.0,Yes,3875.0
+Built-up  Area,4.0,2.0,800.0,Yes,4200.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1291.0
+Super built-up  Area,3.0,1.0,56.0,Yes,1403.0
+Super built-up  Area,1.0,1.0,55.0,No,645.0
+Built-up  Area,2.0,2.0,33.45,Yes,1115.0
+Super built-up  Area,2.0,1.0,63.0,No,1197.0
+Plot  Area,4.0,3.0,375.0,Yes,1200.0
+Built-up  Area,1.0,2.0,30.0,Yes,800.0
+Super built-up  Area,2.0,1.0,55.0,Yes,1113.0
+Built-up  Area,2.0,1.0,60.0,Yes,1255.0
+Built-up  Area,2.0,1.0,24.0,Yes,900.0
+Super built-up  Area,2.0,2.0,86.68,Yes,1175.0
+Super built-up  Area,2.0,2.0,70.0,Yes,1643.0
+Built-up  Area,1.0,0.0,54.0,Yes,1425.0
+Plot  Area,6.0,3.0,175.0,Yes,1950.0
+Super built-up  Area,2.0,2.0,66.85,Yes,1580.0
+Plot  Area,5.0,1.0,280.0,Yes,4000.0
+Super built-up  Area,1.0,1.0,19.9,No,674.0
+Super built-up  Area,2.0,1.0,45.9,Yes,1141.0
+Super built-up  Area,2.0,2.0,83.5,No,1260.0
+Plot  Area,4.0,1.0,190.0,Yes,1200.0
+Built-up  Area,3.0,2.0,65.0,Yes,1620.0
+Super built-up  Area,3.0,3.0,70.0,Yes,1665.0
+Super built-up  Area,2.0,2.0,110.0,Yes,1245.0
+Built-up  Area,2.0,3.0,45.0,Yes,1080.0
+Built-up  Area,2.0,2.0,32.0,Yes,800.0
+Built-up  Area,1.0,1.0,20.0,Yes,530.0
+Super built-up  Area,2.0,1.0,45.79,Yes,1205.0
+Super built-up  Area,3.0,2.0,150.0,Yes,2520.0
+Built-up  Area,3.0,2.0,98.91,Yes,1565.0
+Super built-up  Area,3.0,1.0,330.0,Yes,2480.0
+Plot  Area,3.0,0.0,95.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1000.0
+Built-up  Area,4.0,2.0,630.0,Yes,4000.0
+Super built-up  Area,2.0,2.0,46.62,Yes,1260.0
+Super built-up  Area,2.0,1.0,90.0,Yes,953.0
+Plot  Area,3.0,3.0,23.0,Yes,276.0
+Super built-up  Area,3.0,2.0,115.0,No,1697.0
+Plot  Area,3.0,1.0,61.96,No,1200.0
+Super built-up  Area,2.0,1.0,42.0,Yes,916.0
+Super built-up  Area,3.0,3.0,88.0,Yes,1700.0
+Plot  Area,2.0,1.0,270.0,Yes,1688.12
+Super built-up  Area,4.0,3.0,170.0,Yes,2439.0
+Built-up  Area,3.0,3.0,85.0,Yes,1725.0
+Super built-up  Area,2.0,1.0,36.0,Yes,1065.0
+Super built-up  Area,2.0,1.0,56.0,Yes,929.0
+Super built-up  Area,2.0,2.0,52.33,Yes,1495.0
+Super built-up  Area,4.0,3.0,199.0,No,2690.0
+Super built-up  Area,3.0,3.0,350.0,No,2214.0
+Plot  Area,4.0,0.0,120.0,No,1200.0
+Super built-up  Area,3.0,2.0,185.0,Yes,2401.0
+Plot  Area,4.0,1.0,115.0,Yes,2540.0
+Super built-up  Area,2.0,1.0,27.0,No,900.0
+Built-up  Area,2.0,1.0,37.84,No,1310.0
+Plot  Area,1.0,0.0,58.0,Yes,600.0
+Super built-up  Area,4.0,2.0,196.0,Yes,2006.0
+Super built-up  Area,2.0,2.0,46.0,Yes,1200.0
+Super built-up  Area,2.0,0.0,50.0,Yes,745.0
+Super built-up  Area,2.0,1.0,95.0,Yes,1260.0
+Super built-up  Area,2.0,1.0,52.0,Yes,1020.0
+Super built-up  Area,2.0,1.0,79.0,No,1304.0
+Super built-up  Area,2.0,2.0,135.0,Yes,1590.0
+Plot  Area,3.0,3.0,86.0,Yes,600.0
+Super built-up  Area,2.0,3.0,75.0,Yes,1360.0
+Plot  Area,2.0,0.0,128.0,Yes,900.0
+Super built-up  Area,2.0,1.0,33.45,Yes,1115.0
+Super built-up  Area,2.0,1.0,66.88,No,1216.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1404.0
+Super built-up  Area,2.0,2.0,64.0,Yes,1123.0
+Plot  Area,5.0,1.0,260.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,97.52,No,1430.0
+Built-up  Area,5.0,2.0,140.0,Yes,4050.0
+Built-up  Area,2.0,2.0,67.0,Yes,985.0
+Plot  Area,6.0,0.0,145.0,Yes,1300.0
+Super built-up  Area,2.0,2.0,87.0,Yes,1282.0
+Plot  Area,5.0,2.0,162.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,84.0,Yes,1750.0
+Super built-up  Area,3.0,2.0,193.0,No,1950.2
+Built-up  Area,2.0,2.0,45.0,Yes,1078.0
+Super built-up  Area,2.0,2.0,42.0,Yes,1200.0
+Built-up  Area,2.0,0.0,650.0,Yes,1500.0
+Super built-up  Area,2.0,2.0,85.0,Yes,1180.0
+Super built-up  Area,3.0,3.0,65.21,No,1976.0
+Built-up  Area,5.0,0.0,75.0,Yes,24.0
+Built-up  Area,3.0,0.0,145.0,Yes,2100.0
+Super built-up  Area,1.0,1.0,17.0,Yes,550.0
+Super built-up  Area,2.0,2.0,38.5,Yes,1460.0
+Super built-up  Area,3.0,2.0,96.0,Yes,1550.0
+Super built-up  Area,2.0,1.0,90.0,Yes,1600.0
+Super built-up  Area,3.0,2.0,115.0,Yes,1715.0
+Plot  Area,4.0,2.0,89.0,Yes,2400.0
+Super built-up  Area,6.0,0.0,200.5,Yes,3715.0
+Super built-up  Area,2.0,1.0,33.0,Yes,845.0
+Plot  Area,4.0,2.0,350.0,Yes,2400.0
+Plot  Area,7.0,0.0,85.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,37.5,Yes,975.0
+Super built-up  Area,3.0,1.0,120.0,Yes,1684.0
+Super built-up  Area,3.0,2.0,75.0,Yes,1670.0
+Super built-up  Area,3.0,2.0,102.0,No,1804.0
+Super built-up  Area,4.0,3.0,340.0,Yes,2475.0
+Super built-up  Area,1.0,1.0,38.0,Yes,770.0
+Super built-up  Area,4.0,2.0,160.0,Yes,2087.01
+Super built-up  Area,3.0,0.0,150.0,No,1613.0
+Built-up  Area,4.0,0.0,231.0,Yes,3453.0
+Super built-up  Area,2.0,3.0,42.25,No,1190.0
+Plot  Area,3.0,1.0,90.0,Yes,1200.0
+Built-up  Area,2.0,3.0,100.0,Yes,1260.0
+Built-up  Area,3.0,2.0,110.0,Yes,2450.0
+Built-up  Area,2.0,0.0,65.0,Yes,1100.0
+Plot  Area,8.0,2.0,2600.0,Yes,4350.0
+Super built-up  Area,2.0,1.0,100.0,No,1280.0
+Plot  Area,6.0,3.0,75.0,Yes,3.0
+Built-up  Area,4.0,2.0,175.0,Yes,3900.0
+Plot  Area,3.0,1.0,79.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,78.34,No,1180.0
+Super built-up  Area,2.0,1.0,31.0,Yes,1075.0
+Built-up  Area,2.0,2.0,27.6,Yes,1105.0
+Plot  Area,4.0,2.0,125.0,No,1200.0
+Super built-up  Area,2.0,2.0,85.0,No,1299.0
+Plot  Area,2.0,1.0,120.0,Yes,4750.0
+Built-up  Area,1.0,1.0,29.0,Yes,545.0
+Super built-up  Area,3.0,2.0,260.0,Yes,2650.0
+Super built-up  Area,2.0,2.0,56.0,Yes,918.0
+Super built-up  Area,2.0,2.0,48.0,Yes,941.0
+Built-up  Area,4.0,1.0,85.0,Yes,1200.0
+Built-up  Area,3.0,2.0,43.71,No,1410.0
+Super built-up  Area,3.0,1.0,85.0,No,1430.0
+Super built-up  Area,2.0,1.0,31.57,No,858.0
+Super built-up  Area,2.0,3.0,58.25,Yes,1355.0
+Super built-up  Area,2.0,1.0,43.7,Yes,814.0
+Super built-up  Area,2.0,2.0,90.63,No,1710.0
+Super built-up  Area,3.0,2.0,57.6,No,1280.0
+Super built-up  Area,5.0,2.0,212.0,Yes,4000.0
+Built-up  Area,1.0,1.0,35.0,Yes,700.0
+Super built-up  Area,2.0,1.0,67.3,Yes,1246.0
+Built-up  Area,2.0,1.0,36.0,Yes,750.0
+Super built-up  Area,2.0,1.0,58.0,No,1012.0
+Super built-up  Area,2.0,1.0,39.95,Yes,1110.0
+Super built-up  Area,3.0,2.0,170.0,Yes,2710.0
+Plot  Area,6.0,2.0,140.0,Yes,1903.0
+Built-up  Area,3.0,3.0,100.0,Yes,1790.0
+Built-up  Area,2.0,2.0,28.0,Yes,1300.0
+Super built-up  Area,3.0,2.0,400.0,Yes,3000.0
+Super built-up  Area,1.0,0.0,230.0,Yes,1450.0
+Plot  Area,3.0,2.0,25.0,Yes,2000.0
+Plot  Area,5.0,2.0,240.0,Yes,1200.0
+Built-up  Area,2.0,0.0,65.0,Yes,950.0
+Plot  Area,4.0,1.0,75.0,Yes,1000.0
+Plot  Area,4.0,3.0,530.0,Yes,3400.0
+Built-up  Area,4.0,1.0,225.0,Yes,3700.0
+Super built-up  Area,2.0,2.0,40.6,Yes,1155.0
+Super built-up  Area,6.0,2.0,450.0,Yes,3730.0
+Super built-up  Area,2.0,2.0,56.4,Yes,1153.0
+Super built-up  Area,2.0,2.0,33.92,Yes,1190.0
+Plot  Area,2.0,0.0,66.0,Yes,1200.0
+Plot  Area,2.0,0.0,75.0,No,1230.0
+Super built-up  Area,2.0,2.0,48.0,Yes,1525.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1410.0
+Super built-up  Area,3.0,3.0,100.0,Yes,1580.0
+Built-up  Area,5.0,2.0,120.0,Yes,2400.0
+Plot  Area,4.0,2.0,240.0,Yes,1200.0
+Built-up  Area,3.0,1.0,180.0,Yes,1750.0
+Super built-up  Area,3.0,2.0,98.13,No,1532.0
+Plot  Area,6.0,2.0,75.0,Yes,1150.0
+Super built-up  Area,2.0,2.0,42.0,Yes,900.0
+Super built-up  Area,3.0,3.0,108.0,No,1692.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1280.0
+Built-up  Area,1.0,1.0,40.0,No,793.0
+Super built-up  Area,2.0,1.0,52.0,Yes,1010.0
+Super built-up  Area,3.0,2.0,120.0,Yes,2159.0
+Super built-up  Area,1.0,2.0,50.0,Yes,688.0
+Super built-up  Area,3.0,3.0,93.0,Yes,1653.0
+Super built-up  Area,2.0,1.0,57.63,No,1055.0
+Super built-up  Area,5.0,1.0,500.0,Yes,3205.0
+Super built-up  Area,2.0,2.0,85.0,Yes,1058.0
+Super built-up  Area,1.0,1.0,26.25,No,525.0
+Built-up  Area,3.0,1.0,68.0,Yes,1398.0
+Super built-up  Area,2.0,3.0,62.0,Yes,1435.0
+Plot  Area,5.0,2.0,269.0,Yes,2297.0
+Super built-up  Area,3.0,1.0,86.03,Yes,1229.0
+Built-up  Area,4.0,2.0,255.0,Yes,4200.0
+Super built-up  Area,2.0,3.0,56.0,Yes,960.0
+Super built-up  Area,2.0,1.0,47.74,No,1085.0
+Built-up  Area,4.0,2.0,333.0,No,3900.0
+Super built-up  Area,3.0,2.0,106.0,Yes,1720.0
+Super built-up  Area,2.0,1.0,35.0,Yes,1075.0
+Super built-up  Area,2.0,2.0,52.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,82.0,Yes,1250.0
+Super built-up  Area,1.0,1.0,26.01,No,525.0
+Super built-up  Area,2.0,2.0,48.0,Yes,1419.0
+Super built-up  Area,3.0,2.0,145.0,Yes,2247.0
+Super built-up  Area,2.0,1.0,80.0,Yes,823.0
+Super built-up  Area,2.0,1.0,38.95,No,1061.0
+Built-up  Area,2.0,0.0,44.0,Yes,1150.0
+Built-up  Area,2.0,1.0,35.0,Yes,1000.0
+Super built-up  Area,2.0,2.0,40.0,Yes,1100.0
+Plot  Area,5.0,2.0,190.0,Yes,1200.0
+Super built-up  Area,2.0,0.0,75.0,Yes,1500.0
+Plot  Area,1.0,0.0,41.0,Yes,1260.0
+Super built-up  Area,4.0,1.0,145.0,Yes,2400.0
+Super built-up  Area,2.0,1.0,45.0,Yes,1800.0
+Super built-up  Area,4.0,3.0,155.0,Yes,1989.0
+Super built-up  Area,1.0,1.0,31.1,No,691.0
+Plot  Area,4.0,2.0,375.0,Yes,3200.0
+Super built-up  Area,2.0,1.0,45.9,Yes,1022.0
+Built-up  Area,2.0,1.0,50.0,Yes,1236.0
+Super built-up  Area,2.0,1.0,59.0,Yes,1140.0
+Super built-up  Area,4.0,2.0,130.0,Yes,2736.0
+Plot  Area,2.0,0.0,280.0,Yes,1688.0
+Built-up  Area,2.0,1.0,45.0,Yes,900.0
+Super built-up  Area,2.0,2.0,55.0,Yes,1050.0
+Plot  Area,3.0,1.0,140.0,Yes,880.0
+Built-up  Area,5.0,2.0,150.0,Yes,2700.0
+Plot  Area,6.0,2.0,75.0,Yes,880.0
+Built-up  Area,1.0,1.0,12.0,Yes,550.0
+Super built-up  Area,3.0,1.0,115.0,No,1804.0
+Super built-up  Area,2.0,3.0,43.0,Yes,1135.0
+Super built-up  Area,3.0,2.0,108.0,No,2072.0
+Carpet  Area,3.0,1.0,104.0,No,1234.6
+Super built-up  Area,2.0,2.0,61.5,Yes,1370.0
+Super built-up  Area,4.0,2.0,255.0,Yes,2100.0
+Super built-up  Area,2.0,2.0,40.43,No,1400.0
+Super built-up  Area,2.0,2.0,105.0,Yes,1400.0
+Super built-up  Area,3.0,2.0,150.0,Yes,1695.0
+Built-up  Area,2.0,3.0,48.0,Yes,1068.0
+Super built-up  Area,3.0,0.0,100.0,Yes,1450.0
+Built-up  Area,3.0,2.0,62.28,Yes,1384.0
+Super built-up  Area,4.0,3.0,150.0,Yes,1910.0
+Plot  Area,1.0,0.0,110.0,No,5.31
+Plot  Area,3.0,2.0,700.0,Yes,4470.0
+Plot  Area,5.0,2.0,200.0,Yes,2280.0
+Super built-up  Area,3.0,0.0,72.02,No,1431.5
+Plot  Area,3.0,1.0,88.0,Yes,2500.0
+Super built-up  Area,2.0,1.0,32.72,No,935.0
+Plot  Area,3.0,1.0,105.0,Yes,900.0
+Super built-up  Area,3.0,1.0,61.0,Yes,1430.0
+Super built-up  Area,2.0,1.0,76.01,No,1346.0
+Plot  Area,5.0,2.0,98.0,Yes,800.0
+Built-up  Area,5.0,1.0,331.0,Yes,4144.0
+Super built-up  Area,3.0,2.0,69.0,Yes,1400.0
+Built-up  Area,2.0,1.0,50.0,Yes,1310.0
+Super built-up  Area,2.0,1.0,56.0,Yes,1200.0
+Built-up  Area,5.0,0.0,425.0,Yes,3100.0
+Built-up  Area,8.0,3.0,90.0,Yes,1200.0
+Built-up  Area,2.0,1.0,46.0,Yes,1125.0
+Super built-up  Area,2.0,1.0,56.0,Yes,1335.0
+Built-up  Area,2.0,2.0,100.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,70.0,Yes,1190.0
+Super built-up  Area,2.0,2.0,80.0,Yes,1139.0
+Plot  Area,2.0,1.0,75.0,Yes,1350.0
+Plot  Area,1.0,0.0,35.0,Yes,1050.0
+Plot  Area,6.0,2.0,300.0,Yes,2232.0
+Super built-up  Area,1.0,1.0,47.0,No,630.0
+Super built-up  Area,2.0,1.0,97.0,Yes,1460.0
+Super built-up  Area,2.0,1.0,79.0,Yes,1363.0
+Built-up  Area,3.0,2.0,220.0,Yes,2400.0
+Super built-up  Area,2.0,1.0,47.8,Yes,1197.0
+Super built-up  Area,3.0,3.0,285.0,Yes,2275.0
+Super built-up  Area,2.0,1.0,67.3,Yes,1246.0
+Super built-up  Area,2.0,2.0,57.0,Yes,1025.0
+Super built-up  Area,3.0,2.0,111.0,Yes,1700.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1400.0
+Built-up  Area,2.0,2.0,59.0,Yes,1170.0
+Super built-up  Area,3.0,1.0,95.0,Yes,1730.0
+Super built-up  Area,2.0,2.0,42.54,Yes,1255.0
+Built-up  Area,3.0,2.0,80.0,Yes,1447.0
+Super built-up  Area,3.0,3.0,220.0,Yes,1640.0
+Super built-up  Area,5.0,3.0,190.0,No,2830.0
+Super built-up  Area,2.0,1.0,45.0,Yes,1015.0
+Super built-up  Area,4.0,2.0,150.0,Yes,2100.0
+Super built-up  Area,3.0,2.0,115.0,Yes,1683.0
+Super built-up  Area,2.0,2.0,44.0,Yes,1024.0
+Super built-up  Area,4.0,2.0,140.0,Yes,3200.0
+Super built-up  Area,3.0,2.0,210.0,Yes,2180.0
+Super built-up  Area,1.0,1.0,26.0,No,475.0
+Built-up  Area,2.0,1.0,34.65,No,1200.0
+Super built-up  Area,2.0,2.0,48.0,Yes,1279.0
+Super built-up  Area,2.0,0.0,55.0,Yes,1194.0
+Plot  Area,2.0,0.0,60.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1400.0
+Plot  Area,6.0,2.0,560.0,Yes,7000.0
+Super built-up  Area,2.0,2.0,72.0,Yes,1100.0
+Plot  Area,10.0,2.0,170.0,Yes,900.0
+Super built-up  Area,3.0,2.0,82.0,Yes,1853.0
+Super built-up  Area,2.0,1.0,70.0,Yes,1428.0
+Super built-up  Area,2.0,2.0,90.0,No,1520.0
+Super built-up  Area,2.0,1.0,42.83,Yes,1020.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1418.0
+Plot  Area,4.0,1.0,85.0,Yes,1200.0
+Plot  Area,5.0,2.0,95.0,Yes,810.0
+Super built-up  Area,2.0,1.0,59.1,Yes,1315.0
+Super built-up  Area,4.0,2.0,240.0,Yes,3000.0
+Super built-up  Area,6.0,1.0,370.0,Yes,4000.0
+Super built-up  Area,2.0,1.0,71.64,No,1194.0
+Plot  Area,1.0,1.0,31.7,Yes,461.82
+Plot  Area,7.0,3.0,165.0,Yes,1200.0
+Plot  Area,7.0,2.0,1200.0,Yes,5800.0
+Super built-up  Area,2.0,2.0,38.0,Yes,1011.0
+Super built-up  Area,3.0,2.0,400.0,Yes,2448.0
+Super built-up  Area,2.0,2.0,58.0,Yes,946.0
+Built-up  Area,3.0,3.0,220.0,No,2079.0
+Built-up  Area,3.0,2.0,229.0,Yes,1640.0
+Built-up  Area,4.0,3.0,230.0,Yes,3092.0
+Super built-up  Area,6.0,2.0,235.0,Yes,3122.0
+Super built-up  Area,2.0,1.0,32.0,Yes,720.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1203.0
+Super built-up  Area,1.0,1.0,25.0,No,525.0
+Plot  Area,9.0,0.0,360.0,Yes,2550.0
+Super built-up  Area,4.0,2.0,125.0,No,2280.0
+Built-up  Area,3.0,3.0,100.0,Yes,1756.0
+Built-up  Area,2.0,2.0,50.0,Yes,1300.0
+Plot  Area,2.0,0.0,105.0,Yes,1350.0
+Super built-up  Area,6.0,2.0,353.0,No,2461.0
+Super built-up  Area,1.0,1.0,27.0,Yes,589.0
+Super built-up  Area,3.0,1.0,33.08,No,1225.0
+Plot  Area,6.0,2.0,85.0,Yes,700.0
+Built-up  Area,4.0,3.0,130.0,Yes,2400.0
+Super built-up  Area,3.0,2.0,150.0,No,1920.0
+Super built-up  Area,2.0,3.0,51.1,Yes,1290.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1276.0
+Super built-up  Area,2.0,3.0,74.72,No,1465.0
+Plot  Area,3.0,1.0,165.0,Yes,1200.0
+Built-up  Area,2.0,1.0,32.49,No,1125.0
+Built-up  Area,2.0,2.0,70.0,Yes,1470.0
+Super built-up  Area,2.0,3.0,59.0,Yes,1550.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1100.0
+Super built-up  Area,2.0,3.0,57.0,Yes,1190.0
+Plot  Area,4.0,3.0,225.0,Yes,2230.0
+Built-up  Area,2.0,2.0,45.0,Yes,1143.0
+Plot  Area,4.0,3.0,150.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,90.2,No,1718.0
+Built-up  Area,2.0,2.0,65.0,Yes,1350.0
+Super built-up  Area,4.0,2.0,130.0,Yes,1935.0
+Super built-up  Area,2.0,3.0,59.0,Yes,1510.0
+Plot  Area,2.0,1.0,100.0,Yes,660.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1360.0
+Built-up  Area,2.0,2.0,65.0,Yes,1185.0
+Super built-up  Area,2.0,1.0,84.0,No,1314.0
+Plot  Area,2.0,0.0,140.0,Yes,1350.0
+Super built-up  Area,2.0,1.0,70.0,No,1254.0
+Super built-up  Area,2.0,2.0,44.95,Yes,1110.0
+Super built-up  Area,3.0,2.0,169.0,Yes,2266.0
+Carpet  Area,1.0,1.0,33.0,No,500.0
+Super built-up  Area,2.0,1.0,47.0,No,1070.0
+Plot  Area,6.0,1.0,400.0,Yes,2400.0
+Plot  Area,4.0,2.0,130.0,Yes,1000.0
+Super built-up  Area,3.0,2.0,63.0,Yes,1252.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1210.0
+Super built-up  Area,2.0,2.0,44.0,No,1156.0
+Built-up  Area,3.0,2.0,78.0,Yes,1565.0
+Super built-up  Area,2.0,1.0,41.68,Yes,1175.0
+Super built-up  Area,2.0,1.0,57.0,Yes,1345.0
+Super built-up  Area,3.0,2.0,150.0,Yes,1750.0
+Super built-up  Area,2.0,2.0,50.0,Yes,1320.0
+Super built-up  Area,2.0,1.0,38.0,Yes,1167.0
+Super built-up  Area,5.0,2.0,1500.0,Yes,7500.0
+Super built-up  Area,2.0,3.0,80.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,59.0,Yes,1614.0
+Super built-up  Area,4.0,1.0,400.0,Yes,2250.0
+Plot  Area,2.0,0.0,110.0,Yes,1050.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1181.0
+Super built-up  Area,3.0,3.0,51.63,No,1403.0
+Super built-up  Area,2.0,1.0,60.0,Yes,1000.0
+Super built-up  Area,2.0,1.0,79.0,Yes,1202.0
+Super built-up  Area,3.0,1.0,63.22,No,1310.0
+Built-up  Area,2.0,1.0,25.99,Yes,850.0
+Super built-up  Area,2.0,2.0,69.0,Yes,1328.0
+Super built-up  Area,2.0,1.0,43.91,Yes,1098.0
+Super built-up  Area,2.0,1.0,54.92,Yes,1061.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1198.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1300.0
+Plot  Area,4.0,3.0,225.0,Yes,2900.0
+Built-up  Area,2.0,2.0,45.0,Yes,1204.0
+Super built-up  Area,2.0,2.0,45.95,Yes,1329.0
+Built-up  Area,3.0,2.0,120.0,Yes,1670.0
+Super built-up  Area,2.0,0.0,23.0,Yes,600.0
+Super built-up  Area,2.0,2.0,40.0,Yes,1219.0
+Built-up  Area,2.0,1.0,200.0,Yes,1475.0
+Super built-up  Area,1.0,1.0,40.0,No,644.0
+Super built-up  Area,2.0,3.0,51.1,Yes,1460.0
+Super built-up  Area,3.0,2.0,81.0,Yes,1674.0
+Built-up  Area,4.0,1.0,90.0,Yes,2100.0
+Plot  Area,2.0,1.0,290.0,Yes,1705.0
+Built-up  Area,2.0,1.0,52.0,Yes,1081.0
+Super built-up  Area,1.0,0.0,14.0,Yes,1000.0
+Super built-up  Area,2.0,2.0,32.0,No,1033.0
+Super built-up  Area,2.0,1.0,30.0,No,602.0
+Built-up  Area,1.0,0.0,53.0,Yes,1200.0
+Built-up  Area,2.0,1.0,65.0,Yes,1050.0
+Built-up  Area,2.0,3.0,85.0,Yes,1350.0
+Super built-up  Area,3.0,2.0,103.0,No,1689.0
+Super built-up  Area,3.0,2.0,115.0,Yes,1702.0
+Plot  Area,3.0,2.0,190.0,Yes,1672.0
+Super built-up  Area,3.0,2.0,83.05,No,1510.0
+Super built-up  Area,2.0,2.0,50.0,Yes,1140.0
+Super built-up  Area,2.0,1.0,80.0,No,1380.0
+Super built-up  Area,3.0,2.0,80.0,Yes,1512.0
+Super built-up  Area,2.0,2.0,74.4,Yes,1530.0
+Super built-up  Area,2.0,1.0,35.0,Yes,1060.0
+Super built-up  Area,2.0,1.0,60.0,Yes,703.0
+Built-up  Area,7.0,2.0,400.0,Yes,7500.0
+Super built-up  Area,3.0,2.0,150.0,Yes,1750.0
+Plot  Area,5.0,1.0,78.0,Yes,717.0
+Super built-up  Area,4.0,1.0,428.0,No,2850.0
+Super built-up  Area,2.0,2.0,42.0,Yes,1100.0
+Built-up  Area,3.0,3.0,179.0,Yes,950.0
+Super built-up  Area,3.0,1.0,150.0,Yes,1500.0
+Super built-up  Area,3.0,2.0,97.0,No,1615.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1060.0
+Super built-up  Area,2.0,2.0,87.72,Yes,1625.0
+Super built-up  Area,3.0,3.0,63.0,Yes,1814.0
+Super built-up  Area,2.0,2.0,94.0,Yes,1389.0
+Super built-up  Area,2.0,2.0,38.0,Yes,1175.0
+Super built-up  Area,2.0,1.0,100.0,Yes,1083.0
+Super built-up  Area,2.0,1.0,26.0,Yes,550.0
+Plot  Area,2.0,1.0,45.84,No,1200.0
+Super built-up  Area,3.0,3.0,100.0,Yes,1745.0
+Super built-up  Area,1.0,1.0,36.8,Yes,666.0
+Super built-up  Area,2.0,2.0,30.0,No,1200.0
+Super built-up  Area,3.0,2.0,56.0,Yes,1464.0
+Super built-up  Area,2.0,1.0,53.0,No,1325.0
+Super built-up  Area,3.0,2.0,130.0,Yes,1700.0
+Super built-up  Area,2.0,0.0,36.43,No,1104.0
+Built-up  Area,2.0,1.0,120.0,Yes,1656.0
+Built-up  Area,3.0,1.0,60.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,56.0,Yes,1394.0
+Plot  Area,1.0,0.0,233.0,Yes,1410.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1550.0
+Plot  Area,7.0,0.0,410.0,Yes,2100.0
+Plot  Area,2.0,0.0,115.0,Yes,1600.0
+Super built-up  Area,2.0,2.0,78.0,Yes,1400.0
+Plot  Area,5.0,3.0,550.0,Yes,8000.0
+Super built-up  Area,2.0,1.0,51.5,Yes,1263.0
+Built-up  Area,1.0,1.0,28.0,Yes,714.0
+Super built-up  Area,2.0,2.0,38.0,Yes,971.0
+Built-up  Area,2.0,1.0,44.0,Yes,1048.0
+Plot  Area,4.0,1.0,300.0,Yes,1800.0
+Plot  Area,4.0,1.0,220.0,Yes,1200.0
+Built-up  Area,1.0,0.0,50.0,Yes,850.0
+Super built-up  Area,2.0,1.0,58.0,No,1112.0
+Super built-up  Area,1.0,1.0,37.32,No,850.0
+Super built-up  Area,2.0,3.0,85.0,Yes,1590.0
+Super built-up  Area,4.0,2.0,405.0,Yes,3895.0
+Super built-up  Area,2.0,1.0,55.0,Yes,1070.0
+Super built-up  Area,2.0,1.0,50.0,No,1190.0
+Super built-up  Area,1.0,2.0,46.0,No,715.0
+Super built-up  Area,2.0,2.0,75.0,No,1171.0
+Super built-up  Area,2.0,3.0,79.0,Yes,1738.0
+Super built-up  Area,2.0,2.0,48.0,No,1225.0
+Super built-up  Area,3.0,3.0,120.0,Yes,1537.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1080.0
+Super built-up  Area,3.0,3.0,176.0,Yes,1760.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1085.0
+Super built-up  Area,6.0,2.0,700.0,Yes,6000.0
+Super built-up  Area,2.0,1.0,63.0,Yes,1246.0
+Super built-up  Area,2.0,1.0,75.0,No,1420.0
+Super built-up  Area,2.0,2.0,82.5,Yes,1175.0
+Plot  Area,3.0,1.0,52.0,Yes,675.0
+Super built-up  Area,7.0,3.0,1700.0,No,7500.0
+Super built-up  Area,2.0,1.0,52.0,Yes,1380.0
+Super built-up  Area,3.0,1.0,110.0,Yes,1891.0
+Super built-up  Area,2.0,1.0,78.0,Yes,1000.0
+Super built-up  Area,3.0,2.0,155.0,Yes,1846.0
+Super built-up  Area,2.0,1.0,75.76,No,1341.0
+Super built-up  Area,3.0,3.0,59.96,No,1466.0
+Plot  Area,2.0,0.0,67.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,69.5,Yes,1309.0
+Built-up  Area,2.0,2.0,95.0,Yes,1355.0
+Super built-up  Area,2.0,1.0,55.0,Yes,925.0
+Super built-up  Area,1.0,1.0,52.0,No,702.0
+Super built-up  Area,3.0,2.0,122.0,Yes,1755.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1265.0
+Built-up  Area,1.0,1.0,27.0,Yes,630.0
+Super built-up  Area,2.0,1.0,80.0,Yes,1444.0
+Built-up  Area,2.0,2.0,56.0,Yes,1300.0
+Super built-up  Area,2.0,2.0,60.75,Yes,1522.5
+Super built-up  Area,2.0,1.0,67.0,Yes,1050.0
+Built-up  Area,2.0,1.0,50.0,Yes,1050.0
+Super built-up  Area,4.0,2.0,120.0,Yes,1930.0
+Built-up  Area,2.0,2.0,68.0,Yes,1163.0
+Super built-up  Area,2.0,3.0,58.0,Yes,1299.0
+Super built-up  Area,4.0,3.0,540.0,Yes,3516.0
+Built-up  Area,2.0,2.0,45.0,Yes,1080.0
+Super built-up  Area,2.0,2.0,56.0,Yes,950.0
+Super built-up  Area,2.0,2.0,41.0,Yes,1350.0
+Built-up  Area,2.0,1.0,40.44,No,1400.0
+Super built-up  Area,2.0,3.0,155.0,Yes,1835.0
+Super built-up  Area,2.0,2.0,35.0,Yes,805.0
+Super built-up  Area,2.0,1.0,38.0,Yes,950.0
+Built-up  Area,3.0,2.0,62.0,Yes,1620.0
+Super built-up  Area,8.0,3.0,175.0,Yes,42000.0
+Built-up  Area,2.0,0.0,200.0,Yes,2800.0
+Super built-up  Area,3.0,2.0,52.47,No,1418.0
+Plot  Area,2.0,0.0,58.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,40.6,Yes,1160.0
+Plot  Area,8.0,2.0,155.0,Yes,1120.0
+Super built-up  Area,3.0,2.0,170.0,Yes,2008.0
+Built-up  Area,2.0,1.0,70.0,Yes,1050.0
+Super built-up  Area,2.0,1.0,54.0,Yes,1070.0
+Plot  Area,5.0,2.0,270.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,65.59,Yes,1226.0
+Super built-up  Area,2.0,1.0,81.0,No,1358.0
+Built-up  Area,4.0,2.0,600.0,Yes,4640.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1100.0
+Super built-up  Area,4.0,3.0,200.0,Yes,2996.0
+Built-up  Area,2.0,3.0,100.0,Yes,1700.0
+Built-up  Area,3.0,2.0,41.0,Yes,1240.0
+Super built-up  Area,2.0,1.0,49.27,Yes,1010.0
+Super built-up  Area,2.0,1.0,32.67,No,1089.0
+Super built-up  Area,2.0,1.0,51.91,Yes,1115.0
+Super built-up  Area,2.0,1.0,54.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,145.0,Yes,1825.0
+Plot  Area,4.0,2.0,420.0,No,2400.0
+Super built-up  Area,2.0,1.0,41.15,Yes,1100.0
+Super built-up  Area,2.0,1.0,62.0,Yes,1192.0
+Built-up  Area,3.0,3.0,39.97,Yes,1350.0
+Built-up  Area,2.0,2.0,48.0,Yes,965.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1115.0
+Super built-up  Area,2.0,1.0,39.0,No,1175.0
+Super built-up  Area,3.0,2.0,65.0,Yes,1549.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1172.0
+Plot  Area,3.0,2.0,280.0,No,4050.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1058.0
+Plot  Area,6.0,3.0,400.0,Yes,2400.0
+Built-up  Area,2.0,2.0,54.6,Yes,1350.0
+Built-up  Area,2.0,2.0,50.0,Yes,1080.0
+Plot  Area,3.0,3.0,225.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,60.0,Yes,1400.0
+Super built-up  Area,2.0,2.0,58.0,Yes,1187.0
+Built-up  Area,4.0,0.0,150.0,Yes,3300.0
+Super built-up  Area,3.0,2.0,140.0,Yes,1745.0
+Super built-up  Area,2.0,2.0,52.0,Yes,918.0
+Super built-up  Area,2.0,2.0,60.16,No,1280.0
+Built-up  Area,4.0,2.0,350.0,Yes,3000.0
+Super built-up  Area,2.0,2.0,35.0,No,970.0
+Super built-up  Area,2.0,3.0,58.0,No,1250.0
+Plot  Area,6.0,2.0,420.0,Yes,4800.0
+Built-up  Area,2.0,2.0,27.0,Yes,600.0
+Plot  Area,4.0,2.0,170.0,Yes,1200.0
+Plot  Area,2.0,2.0,135.0,Yes,971.0
+Super built-up  Area,2.0,2.0,51.47,Yes,1175.0
+Built-up  Area,2.0,0.0,46.0,Yes,995.0
+Built-up  Area,2.0,2.0,78.0,Yes,1040.0
+Super built-up  Area,2.0,1.0,45.0,Yes,950.0
+Super built-up  Area,3.0,2.0,102.0,Yes,1600.0
+Plot  Area,3.0,1.0,85.0,Yes,1200.0
+Plot  Area,3.0,2.0,110.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,28.88,No,1000.0
+Super built-up  Area,2.0,2.0,48.48,Yes,1385.0
+Super built-up  Area,3.0,1.0,134.0,Yes,1720.0
+Built-up  Area,2.0,1.0,45.0,Yes,850.0
+Super built-up  Area,2.0,3.0,51.0,Yes,1242.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1242.0
+Built-up  Area,3.0,2.0,95.0,Yes,2099.0
+Super built-up  Area,5.0,2.0,210.0,Yes,2720.0
+Super built-up  Area,2.0,1.0,25.26,Yes,902.0
+Super built-up  Area,3.0,3.0,80.0,Yes,2132.0
+Super built-up  Area,2.0,2.0,40.0,Yes,1128.0
+Plot  Area,2.0,2.0,130.0,Yes,3800.0
+Built-up  Area,4.0,3.0,395.0,Yes,3204.0
+Super built-up  Area,2.0,2.0,116.0,Yes,1660.0
+Built-up  Area,3.0,2.0,76.0,Yes,1595.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1220.0
+Super built-up  Area,3.0,2.0,140.0,Yes,1570.0
+Plot  Area,4.0,1.0,210.0,Yes,1230.0
+Built-up  Area,2.0,2.0,44.73,Yes,1200.0
+Super built-up  Area,2.0,1.0,43.0,Yes,1165.0
+Plot  Area,4.0,2.0,110.0,Yes,800.0
+Super built-up  Area,2.0,2.0,55.0,Yes,1277.0
+Built-up  Area,1.0,0.0,59.0,Yes,700.0
+Super built-up  Area,4.0,3.0,115.0,Yes,2180.0
+Super built-up  Area,2.0,1.0,51.99,Yes,1170.0
+Super built-up  Area,1.0,1.0,30.24,No,605.0
+Super built-up  Area,2.0,2.0,80.0,Yes,1240.0
+Super built-up  Area,2.0,2.0,92.0,Yes,1835.0
+Super built-up  Area,2.0,2.0,35.0,Yes,1175.0
+Super built-up  Area,2.0,1.0,55.78,No,1005.0
+Super built-up  Area,2.0,1.0,30.0,No,1000.0
+Super built-up  Area,2.0,2.0,52.0,Yes,1397.0
+Super built-up  Area,5.0,3.0,240.0,Yes,3400.0
+Super built-up  Area,2.0,2.0,72.0,No,1296.0
+Built-up  Area,2.0,2.0,70.0,Yes,1495.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1013.0
+Super built-up  Area,3.0,3.0,52.0,Yes,1676.0
+Carpet  Area,2.0,3.0,70.0,No,1200.0
+Plot  Area,1.0,0.0,150.0,Yes,700.0
+Super built-up  Area,2.0,2.0,70.0,Yes,1450.0
+Super built-up  Area,2.0,1.0,35.5,Yes,750.0
+Plot  Area,2.0,2.0,29.5,No,600.0
+Plot  Area,3.0,1.0,145.0,No,1200.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,59.0,Yes,1670.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1240.0
+Super built-up  Area,1.0,1.0,14.04,No,520.0
+Built-up  Area,3.0,1.0,75.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,37.97,No,955.0
+Plot  Area,6.0,1.0,1800.0,Yes,9600.0
+Built-up  Area,1.0,1.0,185.0,Yes,1140.0
+Plot  Area,9.0,2.0,150.0,Yes,2000.0
+Super built-up  Area,2.0,2.0,69.5,Yes,1315.0
+Super built-up  Area,2.0,1.0,69.18,Yes,1155.0
+Super built-up  Area,2.0,2.0,260.5,No,3181.0
+Super built-up  Area,2.0,1.0,120.0,Yes,720.0
+Super built-up  Area,3.0,1.0,105.0,Yes,1564.0
+Built-up  Area,2.0,2.0,44.0,Yes,1030.0
+Super built-up  Area,3.0,1.0,86.8,Yes,1550.0
+Built-up  Area,2.0,2.0,167.5,Yes,3550.0
+Built-up  Area,7.0,1.0,104.0,Yes,6500.0
+Super built-up  Area,3.0,2.0,105.0,Yes,1571.0
+Plot  Area,3.0,3.0,85.0,No,1050.0
+Built-up  Area,2.0,1.0,80.0,Yes,1428.0
+Super built-up  Area,2.0,1.0,49.49,Yes,1100.0
+Super built-up  Area,4.0,2.0,240.0,Yes,2900.0
+Super built-up  Area,2.0,2.0,53.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1105.0
+Super built-up  Area,3.0,2.0,46.0,No,1455.0
+Plot  Area,2.0,1.0,45.0,No,1200.0
+Built-up  Area,3.0,2.0,96.0,Yes,1590.0
+Super built-up  Area,6.0,3.0,2200.0,No,12000.0
+Plot  Area,9.0,2.0,175.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,122.0,Yes,1650.0
+Built-up  Area,2.0,1.0,40.0,Yes,1091.0
+Built-up  Area,2.0,2.0,170.0,Yes,1440.0
+Super built-up  Area,2.0,1.0,35.56,No,1270.0
+Built-up  Area,5.0,2.0,145.0,Yes,3408.0
+Super built-up  Area,2.0,2.0,58.0,Yes,1130.0
+Built-up  Area,2.0,1.0,70.0,Yes,1205.0
+Super built-up  Area,2.0,1.0,37.8,Yes,1080.0
+Plot  Area,5.0,1.0,578.0,Yes,4000.0
+Super built-up  Area,2.0,2.0,43.6,No,1151.0
+Built-up  Area,2.0,2.0,27.0,Yes,840.0
+Plot  Area,3.0,2.0,100.0,Yes,600.0
+Super built-up  Area,3.0,2.0,155.0,Yes,2257.0
+Super built-up  Area,2.0,3.0,28.0,Yes,1000.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,71.0,Yes,1250.0
+Super built-up  Area,1.0,0.0,15.0,Yes,460.0
+Plot  Area,4.0,2.0,145.0,Yes,1350.0
+Plot  Area,3.0,2.0,100.0,Yes,600.0
+Super built-up  Area,2.0,2.0,53.67,Yes,1102.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1400.0
+Super built-up  Area,2.0,1.0,41.3,Yes,1180.0
+Super built-up  Area,2.0,2.0,52.0,Yes,1230.0
+Plot  Area,3.0,2.0,90.0,No,1500.0
+Super built-up  Area,1.0,1.0,32.0,Yes,850.0
+Built-up  Area,2.0,2.0,40.0,Yes,1100.0
+Super built-up  Area,2.0,2.0,58.99,Yes,1475.0
+Super built-up  Area,2.0,1.0,55.0,Yes,960.0
+Built-up  Area,2.0,1.0,63.0,Yes,1125.0
+Super built-up  Area,3.0,3.0,195.0,Yes,2830.0
+Built-up  Area,2.0,3.0,70.0,Yes,1322.0
+Super built-up  Area,2.0,1.0,62.3,Yes,1246.0
+Built-up  Area,2.0,1.0,52.23,Yes,1066.0
+Super built-up  Area,6.0,3.0,72.0,Yes,600.0
+Built-up  Area,2.0,1.0,22.0,Yes,560.0
+Plot  Area,4.0,1.0,100.0,Yes,600.0
+Built-up  Area,3.0,2.0,95.0,Yes,1645.0
+Plot  Area,4.0,3.0,175.0,Yes,600.0
+Super built-up  Area,2.0,2.0,78.0,Yes,1635.0
+Super built-up  Area,3.0,2.0,133.0,Yes,1830.0
+Super built-up  Area,2.0,2.0,95.0,Yes,1837.0
+Built-up  Area,2.0,1.0,75.0,Yes,1179.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1250.0
+Plot  Area,3.0,2.0,115.0,Yes,1500.0
+Plot  Area,4.0,1.0,650.0,Yes,2360.0
+Super built-up  Area,2.0,1.0,70.0,No,1240.0
+Built-up  Area,3.0,2.0,65.0,Yes,1200.0
+Super built-up  Area,3.0,3.0,86.0,Yes,1429.0
+Built-up  Area,2.0,1.0,60.0,Yes,1210.0
+Built-up  Area,2.0,1.0,62.8,Yes,1256.0
+Plot  Area,4.0,0.0,125.0,Yes,1200.0
+Built-up  Area,3.0,3.0,400.0,Yes,3000.0
+Super built-up  Area,2.0,2.0,44.0,Yes,1027.0
+Super built-up  Area,3.0,2.0,80.26,No,2293.0
+Super built-up  Area,2.0,2.0,50.0,Yes,1175.0
+Super built-up  Area,2.0,2.0,60.33,No,1440.0
+Super built-up  Area,2.0,1.0,86.98,Yes,1330.0
+Plot  Area,3.0,1.0,70.0,Yes,450.0
+Super built-up  Area,3.0,2.0,38.0,No,1254.0
+Super built-up  Area,2.0,1.0,46.39,Yes,1160.0
+Super built-up  Area,2.0,1.0,70.0,Yes,1250.0
+Super built-up  Area,2.0,2.0,55.0,No,1180.0
+Super built-up  Area,2.0,2.0,43.0,Yes,1185.0
+Super built-up  Area,3.0,3.0,85.0,Yes,1540.0
+Built-up  Area,2.0,2.0,52.0,Yes,1170.0
+Built-up  Area,4.0,3.0,390.0,Yes,4818.0
+Super built-up  Area,1.0,1.0,40.42,No,710.0
+Super built-up  Area,2.0,1.0,27.0,Yes,750.0
+Super built-up  Area,6.0,3.0,120.0,Yes,1200.0
+Plot  Area,4.0,1.0,128.0,Yes,1270.0
+Built-up  Area,2.0,2.0,72.0,Yes,1350.0
+Super built-up  Area,2.0,1.0,53.0,Yes,1054.0
+Super built-up  Area,3.0,3.0,165.0,Yes,1839.0
+Built-up  Area,2.0,2.0,45.0,Yes,1020.0
+Super built-up  Area,2.0,3.0,60.0,Yes,1320.0
+Built-up  Area,2.0,0.0,58.0,Yes,1260.0
+Super built-up  Area,2.0,1.0,55.0,Yes,1141.0
+Super built-up  Area,3.0,2.0,115.0,Yes,1527.0
+Super built-up  Area,3.0,2.0,139.0,No,1795.0
+Super built-up  Area,2.0,1.0,190.0,Yes,1400.0
+Super built-up  Area,2.0,1.0,52.5,Yes,1150.0
+Plot  Area,4.0,1.0,200.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,72.0,Yes,1047.0
+Super built-up  Area,2.0,0.0,38.665,Yes,1081.5
+Super built-up  Area,2.0,1.0,51.8,Yes,1154.0
+Built-up  Area,3.0,0.0,125.0,Yes,1100.0
+Super built-up  Area,2.0,1.0,36.0,No,1085.0
+Super built-up  Area,1.0,1.0,40.5,No,630.0
+Built-up  Area,7.0,2.0,210.0,Yes,3000.0
+Super built-up  Area,5.0,2.0,185.0,Yes,2519.0
+Super built-up  Area,2.0,2.0,35.0,Yes,1030.0
+Super built-up  Area,3.0,1.0,114.0,Yes,2100.0
+Plot  Area,2.0,0.0,70.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,49.0,Yes,1070.0
+Plot  Area,4.0,1.0,225.0,Yes,2400.0
+Super built-up  Area,2.0,1.0,49.5,Yes,790.0
+Built-up  Area,2.0,2.0,58.0,Yes,1280.0
+Super built-up  Area,3.0,2.0,126.0,Yes,1810.0
+Super built-up  Area,2.0,2.0,75.0,Yes,1550.0
+Super built-up  Area,2.0,2.0,76.0,Yes,1417.0
+Built-up  Area,3.0,3.0,170.0,Yes,3000.0
+Built-up  Area,3.0,2.0,98.0,Yes,1542.0
+Super built-up  Area,3.0,2.0,82.0,Yes,1843.0
+Super built-up  Area,2.0,2.0,70.0,Yes,1229.0
+Super built-up  Area,1.0,2.0,50.0,Yes,760.0
+Built-up  Area,2.0,2.0,40.0,Yes,1000.0
+Plot  Area,3.0,1.0,331.0,Yes,3009.0
+Plot  Area,5.0,2.0,205.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,241.0,Yes,1640.0
+Super built-up  Area,2.0,1.0,55.0,Yes,845.0
+Super built-up  Area,2.0,1.0,32.0,Yes,800.0
+Super built-up  Area,6.0,2.0,150.0,No,2462.0
+Super built-up  Area,2.0,2.0,92.0,Yes,1277.0
+Super built-up  Area,2.0,3.0,73.43,Yes,1335.0
+Plot  Area,6.0,3.0,150.0,Yes,1850.0
+Super built-up  Area,2.0,1.0,41.0,No,700.0
+Super built-up  Area,3.0,3.0,75.0,Yes,1675.0
+Built-up  Area,2.0,2.0,51.0,Yes,1234.0
+Super built-up  Area,2.0,2.0,50.0,Yes,1256.0
+Carpet  Area,3.0,2.0,135.0,Yes,2050.0
+Super built-up  Area,3.0,2.0,170.0,Yes,2990.0
+Super built-up  Area,2.0,1.0,44.0,Yes,1012.0
+Super built-up  Area,3.0,1.0,67.12,Yes,1597.0
+Plot  Area,2.0,0.0,105.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,43.66,Yes,1185.0
+Super built-up  Area,2.0,1.0,69.85,Yes,1270.0
+Plot  Area,1.0,1.0,70.0,Yes,1000.0
+Plot  Area,3.0,1.0,95.0,No,1200.0
+Super built-up  Area,3.0,2.0,125.0,Yes,1754.0
+Super built-up  Area,1.0,1.0,110.0,Yes,1005.0
+Super built-up  Area,2.0,1.0,36.0,Yes,913.0
+Built-up  Area,2.0,2.0,55.0,Yes,1345.0
+Super built-up  Area,2.0,1.0,39.0,Yes,950.0
+Super built-up  Area,3.0,2.0,57.0,Yes,1220.0
+Super built-up  Area,2.0,2.0,126.0,Yes,1150.0
+Super built-up  Area,2.0,2.0,38.15,Yes,1090.0
+Super built-up  Area,3.0,3.0,100.0,Yes,1650.0
+Super built-up  Area,3.0,3.0,39.5,No,1250.0
+Super built-up  Area,2.0,1.0,34.22,Yes,978.0
+Super built-up  Area,3.0,3.0,125.0,Yes,2010.0
+Super built-up  Area,3.0,2.0,150.0,Yes,1672.0
+Super built-up  Area,2.0,1.0,46.55,Yes,1225.0
+Super built-up  Area,3.0,0.0,65.0,Yes,1304.0
+Built-up  Area,2.0,3.0,37.0,Yes,960.0
+Built-up  Area,2.0,1.0,90.0,Yes,900.0
+Super built-up  Area,2.0,1.0,101.0,No,1340.0
+Super built-up  Area,3.0,1.0,300.0,No,3758.0
+Built-up  Area,2.0,2.0,75.0,No,1340.0
+Plot  Area,3.0,1.0,175.0,Yes,1050.0
+Built-up  Area,4.0,2.0,280.0,Yes,3200.0
+Super built-up  Area,2.0,1.0,45.0,Yes,1050.0
+Super built-up  Area,5.0,2.0,385.0,Yes,5965.0
+Super built-up  Area,3.0,2.0,100.0,Yes,1690.0
+Super built-up  Area,3.0,2.0,88.0,Yes,1500.0
+Super built-up  Area,3.0,2.0,240.0,Yes,1800.0
+Plot  Area,4.0,1.0,68.0,Yes,1800.0
+Super built-up  Area,3.0,0.0,73.95,Yes,1664.0
+Super built-up  Area,1.0,0.0,46.1,No,663.0
+Super built-up  Area,2.0,2.0,45.0,No,1165.0
+Super built-up  Area,3.0,2.0,317.0,Yes,2300.0
+Super built-up  Area,2.0,1.0,69.0,No,1175.0
+Built-up  Area,3.0,2.0,140.0,Yes,2372.0
+Built-up  Area,2.0,2.0,37.0,Yes,915.0
+Built-up  Area,2.0,0.0,145.0,Yes,1480.0
+Built-up  Area,3.0,2.0,280.0,Yes,2100.0
+Super built-up  Area,2.0,2.0,26.0,Yes,830.0
+Built-up  Area,2.0,2.0,40.0,Yes,1190.0
+Built-up  Area,2.0,1.0,59.0,No,1161.0
+Super built-up  Area,2.0,1.0,42.0,Yes,850.0
+Plot  Area,3.0,2.0,180.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,35.0,Yes,900.0
+Built-up  Area,2.0,2.0,45.0,Yes,1090.0
+Super built-up  Area,2.0,2.0,48.4,Yes,1128.0
+Super built-up  Area,2.0,2.0,69.0,Yes,1500.0
+Plot  Area,2.0,2.0,160.0,Yes,900.0
+Super built-up  Area,2.0,1.0,77.25,No,1183.0
+Super built-up  Area,3.0,2.0,132.0,Yes,2026.0
+Built-up  Area,3.0,3.0,170.0,Yes,3532.0
+Super built-up  Area,3.0,2.0,149.0,Yes,1914.0
+Super built-up  Area,3.0,2.0,89.0,Yes,1902.0
+Super built-up  Area,3.0,2.0,118.0,No,1650.0
+Super built-up  Area,2.0,1.0,67.0,No,1128.0
+Plot  Area,3.0,2.0,137.0,Yes,2040.0
+Super built-up  Area,2.0,1.0,52.0,Yes,1195.0
+Super built-up  Area,2.0,1.0,40.65,No,1045.0
+Super built-up  Area,3.0,3.0,92.0,No,1532.0
+Super built-up  Area,2.0,2.0,81.0,Yes,1210.0
+Plot  Area,8.0,0.0,120.0,Yes,840.0
+Plot  Area,3.0,0.0,240.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1243.0
+Plot  Area,3.0,1.0,130.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,72.0,Yes,1369.0
+Plot  Area,8.0,1.0,210.0,Yes,2300.0
+Plot  Area,6.0,2.0,137.0,Yes,1200.0
+Plot  Area,2.0,0.0,62.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,47.0,No,1225.0
+Built-up  Area,2.0,0.0,45.0,Yes,970.0
+Built-up  Area,2.0,1.0,30.0,Yes,882.0
+Built-up  Area,2.0,2.0,40.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,60.0,Yes,1375.0
+Super built-up  Area,4.0,2.0,450.0,Yes,3950.0
+Super built-up  Area,2.0,1.0,40.8,Yes,995.0
+Super built-up  Area,2.0,2.0,75.0,No,1200.0
+Super built-up  Area,2.0,1.0,40.08,No,1002.0
+Super built-up  Area,2.0,1.0,44.96,Yes,1215.0
+Super built-up  Area,2.0,2.0,102.0,No,1691.0
+Plot  Area,3.0,2.0,90.0,No,1942.0
+Super built-up  Area,1.0,1.0,46.08,No,665.0
+Super built-up  Area,3.0,2.0,165.0,Yes,2000.0
+Super built-up  Area,2.0,1.0,129.0,No,1300.0
+Built-up  Area,3.0,1.0,115.0,Yes,1400.0
+Super built-up  Area,2.0,2.0,48.75,No,1625.0
+Built-up  Area,2.0,2.0,93.0,Yes,1503.0
+Super built-up  Area,2.0,1.0,34.0,Yes,1093.0
+Super built-up  Area,2.0,1.0,70.0,No,1205.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1202.0
+Super built-up  Area,3.0,2.0,99.0,No,1599.0
+Super built-up  Area,2.0,2.0,98.0,No,1222.0
+Super built-up  Area,1.0,0.0,18.5,Yes,34.46
+Plot  Area,4.0,1.0,75.0,Yes,1080.0
+Super built-up  Area,2.0,1.0,68.0,No,1007.0
+Super built-up  Area,2.0,2.0,53.0,Yes,1210.0
+Super built-up  Area,3.0,3.0,85.0,Yes,2108.0
+Super built-up  Area,3.0,2.0,117.0,Yes,1680.0
+Super built-up  Area,2.0,2.0,44.0,Yes,1092.0
+Plot  Area,2.0,0.0,69.0,No,1200.0
+Super built-up  Area,2.0,1.0,36.28,No,830.0
+Plot  Area,5.0,2.0,235.0,Yes,2400.0
+Built-up  Area,2.0,1.0,75.0,Yes,850.0
+Plot  Area,4.0,2.0,80.0,Yes,600.0
+Plot  Area,4.0,2.0,300.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,145.0,No,1881.0
+Super built-up  Area,3.0,2.0,75.0,Yes,1555.0
+Super built-up  Area,2.0,1.0,100.0,Yes,925.0
+Built-up  Area,2.0,2.0,100.0,Yes,1200.0
+Plot  Area,10.0,2.0,475.0,No,1660.0
+Super built-up  Area,2.0,1.0,86.0,Yes,1350.0
+Super built-up  Area,3.0,3.0,125.0,No,1650.0
+Super built-up  Area,4.0,0.0,175.0,Yes,2650.0
+Built-up  Area,2.0,1.0,52.0,Yes,1020.0
+Super built-up  Area,2.0,0.0,53.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,46.5,No,1085.0
+Super built-up  Area,3.0,3.0,75.0,Yes,1455.0
+Super built-up  Area,5.0,2.0,145.0,Yes,4500.0
+Super built-up  Area,4.0,2.0,185.0,Yes,1685.0
+Super built-up  Area,3.0,3.0,147.0,No,2099.0
+Super built-up  Area,3.0,1.0,83.87,No,1355.0
+Plot  Area,7.0,3.0,150.0,Yes,780.0
+Super built-up  Area,1.0,1.0,33.7,No,630.0
+Plot  Area,4.0,3.0,725.0,Yes,5400.0
+Super built-up  Area,2.0,1.0,42.79,No,1074.0
+Super built-up  Area,5.0,1.0,297.0,Yes,3596.0
+Super built-up  Area,2.0,1.0,55.0,Yes,985.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1150.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1075.0
+Built-up  Area,1.0,1.0,52.0,No,905.0
+Super built-up  Area,2.0,1.0,78.0,No,1210.0
+Super built-up  Area,2.0,2.0,44.5,Yes,1125.0
+Plot  Area,3.0,2.0,85.0,Yes,600.0
+Super built-up  Area,4.0,1.0,558.0,Yes,3526.0
+Plot  Area,7.0,2.0,218.0,Yes,1400.0
+Super built-up  Area,3.0,1.0,85.86,Yes,1354.0
+Super built-up  Area,3.0,2.0,92.59,No,1644.0
+Super built-up  Area,1.0,1.0,70.0,Yes,770.0
+Super built-up  Area,2.0,1.0,48.6,Yes,1190.0
+Plot  Area,1.0,1.0,145.0,Yes,1350.0
+Super built-up  Area,3.0,2.0,130.0,Yes,1667.0
+Super built-up  Area,2.0,1.0,63.0,Yes,975.0
+Super built-up  Area,3.0,2.0,95.0,Yes,1498.0
+Super built-up  Area,2.0,3.0,95.0,Yes,1507.0
+Super built-up  Area,2.0,2.0,85.0,Yes,1130.0
+Built-up  Area,4.0,1.0,110.0,Yes,1150.0
+Plot  Area,3.0,3.0,250.0,Yes,3900.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,65.0,Yes,975.0
+Plot  Area,3.0,1.0,120.0,Yes,1733.5
+Super built-up  Area,2.0,2.0,78.0,No,1314.0
+Plot  Area,2.0,1.0,67.5,Yes,712.0
+Super built-up  Area,2.0,1.0,53.0,Yes,1254.0
+Super built-up  Area,1.0,1.0,27.0,No,525.0
+Super built-up  Area,3.0,0.0,300.0,Yes,2246.0
+Plot  Area,4.0,2.0,500.0,Yes,3150.0
+Built-up  Area,3.0,3.0,52.5,Yes,1150.0
+Super built-up  Area,3.0,2.0,150.0,Yes,1540.0
+Super built-up  Area,2.0,1.0,77.0,Yes,1351.0
+Super built-up  Area,4.0,2.0,187.0,Yes,2275.0
+Super built-up  Area,2.0,1.0,34.77,No,1044.0
+Super built-up  Area,1.0,1.0,22.5,No,540.0
+Super built-up  Area,1.0,1.0,26.9,Yes,583.0
+Super built-up  Area,2.0,1.0,81.0,No,1274.0
+Super built-up  Area,2.0,1.0,25.0,Yes,400.0
+Super built-up  Area,2.0,1.0,35.4,Yes,1105.0
+Super built-up  Area,2.0,1.0,69.6,No,1232.0
+Built-up  Area,3.0,2.0,450.0,Yes,3000.0
+Plot  Area,3.0,1.0,85.0,Yes,1350.0
+Super built-up  Area,4.0,2.0,91.31,No,1710.0
+Super built-up  Area,3.0,3.0,68.0,Yes,1610.0
+Plot  Area,4.0,3.0,175.0,Yes,900.0
+Super built-up  Area,3.0,2.0,125.0,No,1660.0
+Super built-up  Area,2.0,1.0,51.66,No,1050.0
+Built-up  Area,1.0,1.0,35.0,Yes,770.0
+Super built-up  Area,2.0,2.0,47.0,No,1225.0
+Plot  Area,4.0,2.0,100.0,Yes,1200.0
+Super built-up  Area,1.0,1.0,44.0,No,615.0
+Super built-up  Area,2.0,2.0,120.0,Yes,1200.0
+Super built-up  Area,1.0,1.0,40.0,Yes,708.0
+Super built-up  Area,2.0,3.0,50.19,Yes,1255.0
+Super built-up  Area,2.0,1.0,53.58,No,1012.0
+Super built-up  Area,2.0,3.0,53.0,Yes,1200.0
+Plot  Area,6.0,3.0,150.0,Yes,1000.0
+Super built-up  Area,1.0,0.0,32.79,No,630.5
+Super built-up  Area,2.0,2.0,65.0,Yes,1180.0
+Super built-up  Area,2.0,2.0,24.5,No,810.0
+Super built-up  Area,1.0,1.0,27.0,Yes,625.0
+Plot  Area,2.0,2.0,250.0,Yes,2400.0
+Plot  Area,5.0,2.0,325.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1007.0
+Built-up  Area,3.0,2.0,60.0,Yes,1300.0
+Super built-up  Area,3.0,2.0,111.0,Yes,1520.0
+Super built-up  Area,2.0,1.0,53.5,Yes,1152.0
+Super built-up  Area,2.0,2.0,85.0,Yes,1620.0
+Super built-up  Area,3.0,1.0,110.0,No,142.84
+Built-up  Area,2.0,2.0,55.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,48.0,Yes,918.0
+Super built-up  Area,2.0,1.0,36.0,No,700.0
+Super built-up  Area,2.0,2.0,52.71,Yes,1050.0
+Super built-up  Area,2.0,2.0,59.0,Yes,1195.0
+Super built-up  Area,2.0,2.0,161.5,No,3517.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1050.0
+Super built-up  Area,2.0,2.0,43.57,Yes,1245.0
+Plot  Area,4.0,2.0,145.0,Yes,1800.0
+Super built-up  Area,1.0,1.0,41.0,Yes,708.0
+Super built-up  Area,3.0,1.0,83.87,No,1355.0
+Plot  Area,4.0,0.0,60.0,Yes,600.0
+Built-up  Area,2.0,2.0,65.0,Yes,720.0
+Plot  Area,3.0,1.0,300.0,Yes,1650.0
+Super built-up  Area,2.0,2.0,35.0,Yes,935.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1230.0
+Super built-up  Area,5.0,3.0,515.0,Yes,5600.0
+Super built-up  Area,2.0,1.0,55.0,Yes,1069.0
+Built-up  Area,2.0,3.0,31.5,Yes,1065.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1325.0
+Built-up  Area,3.0,2.0,72.0,No,1531.0
+Super built-up  Area,4.0,3.0,198.0,No,2790.0
+Super built-up  Area,2.0,2.0,49.0,Yes,996.0
+Plot  Area,6.0,2.0,475.0,Yes,2400.0
+Built-up  Area,2.0,2.0,74.0,Yes,1475.0
+Super built-up  Area,3.0,0.0,84.205,No,1830.5
+Super built-up  Area,2.0,3.0,38.5,Yes,1204.0
+Built-up  Area,1.0,1.0,32.0,Yes,700.0
+Super built-up  Area,2.0,2.0,31.77,Yes,1073.0
+Plot  Area,2.0,0.0,85.0,Yes,1500.0
+Plot  Area,4.0,1.0,54.9,Yes,915.0
+Plot  Area,4.0,1.0,80.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,34.22,Yes,1104.0
+Super built-up  Area,2.0,1.0,45.5,Yes,1070.0
+Super built-up  Area,3.0,3.0,56.0,Yes,1450.0
+Super built-up  Area,3.0,3.0,102.0,Yes,1500.0
+Super built-up  Area,2.0,2.0,46.5,No,1215.0
+Built-up  Area,2.0,2.0,38.0,Yes,1080.0
+Built-up  Area,2.0,2.0,80.0,Yes,1650.0
+Super built-up  Area,2.0,1.0,156.0,Yes,1485.0
+Super built-up  Area,3.0,2.0,200.0,Yes,1495.0
+Plot  Area,3.0,0.0,110.0,Yes,1936.0
+Super built-up  Area,3.0,1.0,115.0,Yes,1801.0
+Plot  Area,2.0,1.0,98.5,Yes,1092.0
+Super built-up  Area,2.0,2.0,54.0,Yes,1210.0
+Super built-up  Area,3.0,3.0,245.0,Yes,1640.0
+Super built-up  Area,2.0,1.0,37.7,Yes,1077.0
+Plot  Area,1.0,0.0,200.0,Yes,2000.0
+Super built-up  Area,4.0,0.0,188.0,No,2503.0
+Plot  Area,3.0,1.0,149.0,Yes,1200.0
+Super built-up  Area,4.0,2.0,450.0,Yes,36000.0
+Built-up  Area,2.0,1.0,37.0,Yes,1075.0
+Super built-up  Area,2.0,1.0,35.0,Yes,1050.0
+Built-up  Area,1.0,1.0,75.0,Yes,890.0
+Super built-up  Area,2.0,0.0,43.0,Yes,700.0
+Super built-up  Area,3.0,2.0,66.0,Yes,1350.0
+Super built-up  Area,3.0,1.0,90.0,Yes,1354.0
+Built-up  Area,2.0,1.0,85.4,Yes,1315.0
+Super built-up  Area,2.0,2.0,33.95,No,1060.0
+Super built-up  Area,2.0,2.0,52.0,Yes,1100.0
+Built-up  Area,2.0,2.0,42.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,85.0,No,2000.0
+Super built-up  Area,3.0,2.0,105.0,Yes,1864.0
+Super built-up  Area,2.0,1.0,78.0,No,1500.0
+Super built-up  Area,2.0,1.0,150.0,Yes,1320.0
+Plot  Area,3.0,1.0,96.0,Yes,1232.0
+Super built-up  Area,2.0,2.0,105.0,Yes,1418.0
+Super built-up  Area,2.0,3.0,36.0,Yes,1300.0
+Built-up  Area,2.0,1.0,82.0,Yes,1197.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1185.0
+Built-up  Area,3.0,2.0,400.0,Yes,2350.0
+Built-up  Area,3.0,3.0,113.0,No,1603.0
+Plot  Area,3.0,1.0,53.0,Yes,450.0
+Built-up  Area,2.0,3.0,45.0,Yes,900.0
+Super built-up  Area,1.0,1.0,48.0,No,613.0
+Carpet  Area,2.0,1.0,50.63,No,823.0
+Super built-up  Area,5.0,1.0,175.0,Yes,2330.0
+Plot  Area,4.0,3.0,110.0,Yes,750.0
+Super built-up  Area,3.0,1.0,45.0,Yes,1208.0
+Super built-up  Area,2.0,1.0,98.89,No,1045.0
+Super built-up  Area,2.0,2.0,46.0,Yes,1220.0
+Plot  Area,7.0,2.0,100.0,Yes,850.0
+Built-up  Area,2.0,1.0,90.0,Yes,1325.0
+Plot  Area,3.0,2.0,120.0,Yes,1750.0
+Super built-up  Area,4.0,2.0,280.0,No,3602.0
+Super built-up  Area,2.0,3.0,90.0,Yes,1400.0
+Built-up  Area,2.0,2.0,54.0,Yes,1250.0
+Super built-up  Area,2.0,1.0,62.0,No,1170.0
+Super built-up  Area,2.0,2.0,150.0,Yes,1700.0
+Super built-up  Area,2.0,1.0,72.0,Yes,1156.0
+Built-up  Area,3.0,2.0,142.0,Yes,1910.0
+Built-up  Area,2.0,2.0,68.0,Yes,1220.0
+Super built-up  Area,2.0,2.0,110.0,No,1430.0
+Super built-up  Area,2.0,1.0,99.0,No,1405.0
+Super built-up  Area,2.0,2.0,80.0,Yes,1322.0
+Super built-up  Area,2.0,2.0,44.08,Yes,1160.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1075.0
+Super built-up  Area,3.0,3.0,450.0,Yes,3500.0
+Super built-up  Area,2.0,2.0,53.0,Yes,1120.0
+Plot  Area,2.0,1.0,46.13,No,1200.0
+Super built-up  Area,2.0,0.0,49.06,No,1046.0
+Super built-up  Area,3.0,3.0,56.0,Yes,1464.0
+Built-up  Area,2.0,1.0,50.0,Yes,1100.0
+Plot  Area,3.0,0.0,72.0,Yes,1500.0
+Plot  Area,4.0,0.0,120.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,64.08,Yes,1168.0
+Plot  Area,5.0,3.0,900.0,Yes,3250.0
+Super built-up  Area,2.0,2.0,43.0,Yes,1110.0
+Built-up  Area,2.0,2.0,44.0,Yes,1160.0
+Super built-up  Area,3.0,1.0,125.0,No,1724.0
+Plot  Area,1.0,0.0,37.0,Yes,600.0
+Super built-up  Area,3.0,2.0,83.0,Yes,1535.0
+Plot  Area,5.0,0.0,101.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,70.0,No,1370.0
+Super built-up  Area,3.0,2.0,120.0,Yes,2000.0
+Super built-up  Area,2.0,1.0,44.4,Yes,1200.0
+Super built-up  Area,1.0,1.0,22.8,Yes,600.0
+Super built-up  Area,2.0,2.0,62.0,Yes,1400.0
+Super built-up  Area,3.0,2.0,41.2,No,1275.0
+Super built-up  Area,3.0,2.0,112.0,Yes,1779.0
+Built-up  Area,2.0,2.0,42.0,Yes,1100.0
+Super built-up  Area,2.0,1.0,80.0,Yes,1270.0
+Super built-up  Area,2.0,2.0,43.48,No,1230.0
+Super built-up  Area,2.0,2.0,55.0,Yes,1120.0
+Super built-up  Area,3.0,2.0,92.0,Yes,1777.26
+Plot  Area,2.0,1.0,36.1,No,1200.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1250.0
+Super built-up  Area,2.0,2.0,79.9,Yes,1207.0
+Plot  Area,3.0,2.0,200.0,Yes,1892.0
+Super built-up  Area,3.0,3.0,160.0,Yes,1960.0
+Super built-up  Area,4.0,2.0,300.0,Yes,3205.0
+Super built-up  Area,6.0,2.0,390.0,Yes,3800.0
+Plot  Area,5.0,2.0,325.0,Yes,2350.0
+Super built-up  Area,3.0,3.0,120.0,Yes,1700.0
+Super built-up  Area,2.0,2.0,50.0,Yes,1140.0
+Built-up  Area,2.0,3.0,80.0,Yes,1201.0
+Super built-up  Area,2.0,1.0,130.0,No,1392.0
+Built-up  Area,2.0,1.0,57.0,No,1070.0
+Super built-up  Area,1.0,1.0,35.0,Yes,664.0
+Super built-up  Area,2.0,1.0,90.0,Yes,1075.0
+Super built-up  Area,2.0,2.0,35.0,Yes,940.0
+Plot  Area,3.0,1.0,80.0,Yes,2260.0
+Super built-up  Area,2.0,2.0,30.0,Yes,800.0
+Super built-up  Area,3.0,1.0,107.0,No,1538.0
+Plot  Area,4.0,1.0,312.0,Yes,2000.0
+Super built-up  Area,2.0,2.0,93.0,Yes,1257.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1100.0
+Super built-up  Area,2.0,2.0,130.0,Yes,1350.0
+Super built-up  Area,2.0,1.0,39.07,No,1056.0
+Super built-up  Area,1.0,1.0,20.0,Yes,550.0
+Super built-up  Area,2.0,0.0,71.74,No,1196.0
+Super built-up  Area,4.0,3.0,220.0,Yes,3895.0
+Super built-up  Area,3.0,3.0,230.0,Yes,1640.0
+Built-up  Area,3.0,2.0,90.0,Yes,1843.0
+Super built-up  Area,2.0,2.0,28.41,No,1033.0
+Super built-up  Area,2.0,2.0,38.0,Yes,1069.0
+Super built-up  Area,2.0,1.0,40.1,No,1015.0
+Super built-up  Area,2.0,1.0,38.33,Yes,1095.0
+Super built-up  Area,3.0,2.0,58.0,Yes,1350.0
+Super built-up  Area,2.0,1.0,38.0,Yes,915.0
+Built-up  Area,2.0,2.0,45.0,Yes,1000.0
+Super built-up  Area,2.0,1.0,46.75,Yes,1100.0
+Super built-up  Area,3.0,1.0,98.3,Yes,1858.0
+Plot  Area,2.0,0.0,68.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,92.0,No,1756.0
+Super built-up  Area,3.0,3.0,65.0,Yes,1300.0
+Super built-up  Area,3.0,2.0,95.0,Yes,1650.0
+Built-up  Area,4.0,1.0,220.0,Yes,2792.0
+Super built-up  Area,5.0,2.0,995.0,No,5108.0
+Super built-up  Area,2.0,2.0,52.0,Yes,1100.0
+Super built-up  Area,3.0,3.0,135.0,Yes,2070.0
+Super built-up  Area,2.0,1.0,56.0,Yes,1148.0
+Super built-up  Area,3.0,2.0,111.0,No,1760.0
+Super built-up  Area,2.0,2.0,46.39,Yes,1160.0
+Built-up  Area,2.0,2.0,48.0,Yes,1000.0
+Built-up  Area,6.0,0.0,141.0,Yes,3600.0
+Super built-up  Area,4.0,2.0,129.0,Yes,2162.03
+Super built-up  Area,4.0,2.0,270.0,Yes,2050.0
+Super built-up  Area,2.0,2.0,62.0,Yes,1270.0
+Super built-up  Area,2.0,1.0,182.0,Yes,2030.0
+Plot  Area,3.0,2.0,80.0,Yes,900.0
+Super built-up  Area,2.0,2.0,40.21,No,1150.0
+Plot  Area,1.0,0.0,48.0,Yes,660.0
+Super built-up  Area,3.0,3.0,60.0,Yes,1540.0
+Plot  Area,5.0,1.0,150.0,No,4000.0
+Built-up  Area,5.0,0.0,110.0,Yes,2088.0
+Super built-up  Area,3.0,3.0,185.0,Yes,1870.0
+Super built-up  Area,1.0,0.0,28.0,Yes,635.0
+Super built-up  Area,3.0,2.0,135.0,Yes,2357.0
+Plot  Area,3.0,1.0,67.77,No,1200.0
+Super built-up  Area,1.0,0.0,28.0,No,610.0
+Super built-up  Area,2.0,1.0,62.0,Yes,1418.0
+Super built-up  Area,3.0,2.0,125.0,No,1592.0
+Plot  Area,1.0,1.0,26.0,Yes,812.0
+Super built-up  Area,2.0,2.0,41.0,No,1079.0
+Super built-up  Area,4.0,2.0,163.0,No,2350.0
+Plot  Area,7.0,2.0,950.0,Yes,6613.0
+Super built-up  Area,2.0,1.0,35.0,Yes,970.0
+Super built-up  Area,3.0,2.0,122.0,No,1778.0
+Super built-up  Area,3.0,2.0,170.0,Yes,3045.0
+Super built-up  Area,8.0,1.0,150.0,Yes,4000.0
+Built-up  Area,3.0,2.0,140.0,Yes,1650.0
+Plot  Area,3.0,1.0,90.0,Yes,1500.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1062.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1222.0
+Super built-up  Area,2.0,3.0,63.0,Yes,1608.0
+Super built-up  Area,2.0,1.0,32.0,Yes,915.0
+Super built-up  Area,1.0,0.0,34.1,Yes,775.0
+Plot  Area,1.0,0.0,30.0,Yes,450.0
+Super built-up  Area,3.0,2.0,142.0,Yes,2095.0
+Built-up  Area,3.0,1.0,65.0,Yes,1350.0
+Built-up  Area,3.0,1.0,147.0,Yes,2100.0
+Super built-up  Area,3.0,2.0,560.0,Yes,2880.0
+Super built-up  Area,3.0,2.0,100.0,No,1810.0
+Super built-up  Area,1.0,1.0,30.0,No,500.0
+Super built-up  Area,2.0,2.0,35.77,Yes,1035.0
+Plot  Area,2.0,0.0,65.0,Yes,1200.0
+Plot  Area,1.0,0.0,241.0,Yes,1675.0
+Super built-up  Area,2.0,2.0,100.0,Yes,1209.0
+Super built-up  Area,2.0,1.0,72.0,Yes,1404.0
+Super built-up  Area,2.0,2.0,51.48,Yes,1430.0
+Super built-up  Area,2.0,1.0,28.0,Yes,750.0
+Super built-up  Area,2.0,0.0,45.0,Yes,1101.0
+Super built-up  Area,4.0,2.0,135.0,Yes,1830.0
+Super built-up  Area,2.0,1.0,63.0,Yes,1222.0
+Super built-up  Area,2.0,1.0,53.57,Yes,1255.0
+Super built-up  Area,2.0,2.0,57.0,Yes,1022.0
+Super built-up  Area,3.0,2.0,148.0,Yes,2089.0
+Super built-up  Area,6.0,2.0,201.0,No,2940.0
+Super built-up  Area,2.0,3.0,68.0,Yes,1350.0
+Plot  Area,5.0,0.0,260.0,Yes,1200.0
+Super built-up  Area,3.0,1.0,38.0,Yes,1130.0
+Super built-up  Area,2.0,2.0,55.0,Yes,1055.0
+Super built-up  Area,3.0,2.0,55.0,Yes,997.0
+Super built-up  Area,2.0,1.0,49.43,No,1111.0
+Super built-up  Area,3.0,2.0,79.0,No,1450.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1115.0
+Super built-up  Area,3.0,3.0,120.0,Yes,1691.0
+Plot  Area,2.0,0.0,35.0,Yes,600.0
+Super built-up  Area,2.0,1.0,89.0,No,1296.0
+Super built-up  Area,3.0,2.0,225.0,Yes,2070.0
+Super built-up  Area,3.0,1.0,118.0,No,1596.0
+Built-up  Area,2.0,1.0,55.0,Yes,1200.0
+Built-up  Area,4.0,0.0,125.0,Yes,1600.0
+Built-up  Area,2.0,2.0,38.0,Yes,1080.0
+Super built-up  Area,3.0,1.0,49.36,No,1260.0
+Super built-up  Area,3.0,2.0,117.0,No,1645.0
+Super built-up  Area,2.0,2.0,61.0,Yes,1261.0
+Super built-up  Area,2.0,1.0,82.0,No,1216.0
+Super built-up  Area,3.0,1.0,33.28,No,1305.0
+Built-up  Area,2.0,2.0,125.0,Yes,1050.0
+Super built-up  Area,3.0,2.0,108.0,No,2072.0
+Plot  Area,3.0,1.0,160.0,Yes,3190.0
+Super built-up  Area,3.0,2.0,58.0,No,1100.0
+Plot  Area,4.0,1.0,140.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,35.0,Yes,925.0
+Built-up  Area,2.0,2.0,38.65,Yes,1140.0
+Built-up  Area,1.0,1.0,750.0,Yes,425.0
+Built-up  Area,2.0,1.0,88.0,Yes,1920.0
+Built-up  Area,2.0,0.0,90.0,Yes,1290.0
+Built-up  Area,4.0,2.0,180.0,Yes,950.0
+Super built-up  Area,2.0,1.0,32.92,No,1140.0
+Super built-up  Area,2.0,1.0,67.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,83.3,No,1560.0
+Super built-up  Area,2.0,1.0,61.0,No,1168.0
+Super built-up  Area,2.0,1.0,42.0,Yes,1150.0
+Super built-up  Area,4.0,2.0,260.0,Yes,2408.0
+Plot  Area,2.0,1.0,67.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,94.36,Yes,1704.0
+Super built-up  Area,1.0,1.0,17.09,Yes,633.0
+Plot  Area,3.0,1.0,250.0,Yes,1550.0
+Super built-up  Area,2.0,1.0,75.0,Yes,1625.0
+Super built-up  Area,3.0,2.0,403.0,Yes,2559.0
+Super built-up  Area,2.0,2.0,38.5,Yes,760.0
+Super built-up  Area,2.0,3.0,71.0,Yes,1426.0
+Super built-up  Area,2.0,2.0,60.0,No,1280.0
+Super built-up  Area,1.0,1.0,45.0,Yes,825.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1100.0
+Plot  Area,2.0,1.0,200.0,Yes,1500.0
+Built-up  Area,1.0,2.0,45.0,Yes,1125.0
+Super built-up  Area,2.0,1.0,84.0,Yes,1047.0
+Super built-up  Area,2.0,1.0,30.0,Yes,986.0
+Built-up  Area,3.0,2.0,285.0,No,2180.0
+Built-up  Area,2.0,1.0,66.0,No,1017.0
+Plot  Area,3.0,1.0,185.0,Yes,1750.0
+Super built-up  Area,2.0,1.0,41.0,No,1035.0
+Plot  Area,5.0,3.0,75.0,Yes,600.0
+Super built-up  Area,2.0,2.0,48.0,Yes,1213.0
+Built-up  Area,1.0,0.0,85.0,Yes,505.0
+Built-up  Area,2.0,2.0,42.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,104.0,No,1660.0
+Super built-up  Area,5.0,3.0,343.0,No,2850.0
+Built-up  Area,6.0,2.0,180.0,Yes,1200.0
+Super built-up  Area,2.0,2.0,66.5,Yes,1313.0
+Super built-up  Area,2.0,0.0,30.0,Yes,900.0
+Built-up  Area,2.0,1.0,40.0,Yes,907.0
+Carpet  Area,9.0,2.0,500.0,Yes,4500.0
+Super built-up  Area,2.0,1.0,56.15,Yes,1404.0
+Plot  Area,6.0,3.0,100.0,Yes,2100.0
+Plot  Area,4.0,2.0,330.0,Yes,4500.0
+Super built-up  Area,2.0,2.0,31.5,Yes,1100.0
+Super built-up  Area,2.0,1.0,28.57,No,1025.0
+Super built-up  Area,2.0,1.0,49.0,Yes,987.0
+Built-up  Area,3.0,2.0,93.0,No,1575.0
+Super built-up  Area,2.0,2.0,39.9,Yes,1140.0
+Plot  Area,2.0,1.0,125.0,Yes,1200.0
+Plot  Area,6.0,2.0,460.0,Yes,4000.0
+Super built-up  Area,2.0,2.0,70.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,58.0,No,1045.0
+Super built-up  Area,3.0,2.0,120.0,Yes,1560.0
+Super built-up  Area,2.0,1.0,30.27,No,1020.0
+Super built-up  Area,2.0,2.0,37.8,Yes,1050.0
+Built-up  Area,5.0,2.0,93.0,No,2400.0
+Super built-up  Area,2.0,2.0,42.85,No,1240.0
+Super built-up  Area,1.0,1.0,16.0,Yes,500.0
+Plot  Area,6.0,2.0,375.0,Yes,2043.0
+Super built-up  Area,3.0,0.0,75.0,Yes,1350.0
+Super built-up  Area,2.0,1.0,50.0,Yes,975.0
+Built-up  Area,1.0,1.0,63.0,Yes,78.03
+Built-up  Area,2.0,3.0,50.06,Yes,1400.0
+Built-up  Area,2.0,2.0,52.0,Yes,1180.0
+Super built-up  Area,2.0,1.0,37.72,No,1347.0
+Plot  Area,5.0,1.0,850.0,Yes,3250.0
+Super built-up  Area,5.0,2.0,980.0,Yes,4900.0
+Super built-up  Area,2.0,3.0,55.0,Yes,1300.0
+Built-up  Area,3.0,1.0,65.0,Yes,1450.0
+Super built-up  Area,3.0,2.0,74.5,Yes,1600.0
+Built-up  Area,1.0,1.0,30.0,Yes,627.0
+Plot  Area,3.0,2.0,149.0,Yes,1200.0
+Built-up  Area,2.0,2.0,50.0,Yes,1120.0
+Super built-up  Area,2.0,2.0,85.0,Yes,1250.0
+Super built-up  Area,2.0,2.0,56.0,Yes,1179.0
+Built-up  Area,3.0,2.0,85.0,Yes,1662.0
+Built-up  Area,4.0,1.0,520.0,Yes,4000.0
+Super built-up  Area,3.0,1.0,73.0,Yes,1460.0
+Super built-up  Area,2.0,2.0,125.0,Yes,1694.0
+Super built-up  Area,3.0,2.0,150.0,Yes,1850.0
+Super built-up  Area,2.0,2.0,70.0,Yes,1180.0
+Built-up  Area,3.0,3.0,98.0,Yes,1757.0
+Super built-up  Area,3.0,3.0,95.0,Yes,1844.0
+Super built-up  Area,3.0,3.0,64.5,Yes,1550.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1198.0
+Plot  Area,3.0,2.0,130.0,Yes,1200.0
+Plot  Area,2.0,1.0,70.0,Yes,1200.0
+Super built-up  Area,5.0,1.0,200.0,No,2882.0
+Super built-up  Area,3.0,2.0,79.0,No,1590.0
+Built-up  Area,2.0,2.0,95.0,Yes,1374.0
+Built-up  Area,2.0,0.0,60.0,Yes,824.0
+Built-up  Area,3.0,1.0,185.0,Yes,2885.0
+Super built-up  Area,6.0,3.0,150.0,Yes,4250.0
+Built-up  Area,4.0,0.0,52.8,Yes,1600.0
+Built-up  Area,3.0,0.0,62.0,Yes,1470.0
+Plot  Area,4.0,2.0,225.0,Yes,4000.0
+Super built-up  Area,3.0,3.0,105.0,Yes,1583.0
+Built-up  Area,2.0,1.0,80.0,Yes,1300.0
+Built-up  Area,2.0,2.0,75.0,Yes,1030.0
+Built-up  Area,4.0,1.0,175.0,Yes,1840.0
+Super built-up  Area,3.0,2.0,95.0,Yes,1881.0
+Super built-up  Area,1.0,2.0,28.0,Yes,720.0
+Plot  Area,2.0,1.0,185.0,Yes,1350.0
+Plot  Area,2.0,2.0,130.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,48.06,Yes,1375.0
+Super built-up  Area,2.0,2.0,28.0,Yes,1090.0
+Super built-up  Area,2.0,1.0,110.0,No,1138.0
+Super built-up  Area,2.0,1.0,61.92,No,1346.0
+Super built-up  Area,2.0,2.0,90.0,Yes,1495.0
+Super built-up  Area,3.0,2.0,159.0,Yes,2257.0
+Plot  Area,3.0,1.0,300.0,Yes,3876.0
+Plot  Area,4.0,3.0,62.0,Yes,720.0
+Plot  Area,2.0,1.0,80.0,Yes,800.0
+Super built-up  Area,2.0,2.0,130.0,Yes,1500.0
+Built-up  Area,1.0,0.0,34.0,Yes,510.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1240.0
+Plot  Area,3.0,1.0,67.77,No,1200.0
+Super built-up  Area,3.0,3.0,63.43,Yes,1275.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1320.0
+Plot  Area,5.0,2.0,210.0,Yes,1500.0
+Super built-up  Area,4.0,2.0,140.0,Yes,3000.0
+Plot  Area,7.0,2.0,821.0,Yes,4320.0
+Plot  Area,3.0,1.0,68.38,No,1200.0
+Built-up  Area,1.0,1.0,15.0,Yes,410.0
+Super built-up  Area,2.0,1.0,70.0,Yes,992.0
+Built-up  Area,2.0,1.0,52.0,Yes,800.0
+Super built-up  Area,4.0,3.0,242.0,Yes,2380.0
+Super built-up  Area,3.0,2.0,110.0,Yes,1817.0
+Built-up  Area,2.0,1.0,65.0,Yes,1163.0
+Built-up  Area,3.0,1.0,268.0,Yes,2500.0
+Super built-up  Area,2.0,1.0,58.0,Yes,1268.0
+Super built-up  Area,3.0,2.0,324.0,Yes,2700.0
+Super built-up  Area,3.0,2.0,117.0,Yes,1998.0
+Super built-up  Area,2.0,3.0,54.5,Yes,1430.0
+Super built-up  Area,2.0,1.0,70.0,Yes,1180.0
+Super built-up  Area,2.0,2.0,44.0,No,1250.0
+Built-up  Area,3.0,0.0,98.0,No,1939.0
+Built-up  Area,1.0,3.0,500.0,Yes,650.0
+Built-up  Area,1.0,0.0,48.0,Yes,1200.0
+Carpet  Area,3.0,0.0,47.405,Yes,1128.76
+Plot  Area,5.0,0.0,195.0,Yes,1200.0
+Plot  Area,3.0,1.0,72.0,Yes,1065.0
+Super built-up  Area,2.0,2.0,47.25,Yes,1050.0
+Built-up  Area,2.0,1.0,75.0,No,1500.0
+Built-up  Area,3.0,0.0,60.0,Yes,1710.0
+Super built-up  Area,2.0,2.0,51.15,Yes,1196.0
+Built-up  Area,1.0,0.0,55.0,Yes,400.0
+Super built-up  Area,3.0,2.0,125.0,Yes,1703.0
+Super built-up  Area,3.0,2.0,75.0,Yes,1656.0
+Super built-up  Area,2.0,2.0,60.0,Yes,1210.0
+Built-up  Area,2.0,1.0,33.0,Yes,800.0
+Plot  Area,5.0,3.0,250.0,Yes,3000.0
+Super built-up  Area,2.0,2.0,95.0,Yes,1500.0
+Super built-up  Area,3.0,1.0,110.0,No,1837.0
+Super built-up  Area,3.0,3.0,112.0,Yes,1715.0
+Built-up  Area,2.0,1.0,32.49,No,1125.0
+Super built-up  Area,1.0,1.0,33.0,No,661.0
+Super built-up  Area,4.0,2.0,115.0,Yes,2025.0
+Built-up  Area,2.0,0.0,85.0,Yes,1280.0
+Super built-up  Area,2.0,1.0,59.6,Yes,1490.0
+Super built-up  Area,2.0,1.0,34.71,No,1057.0
+Super built-up  Area,2.0,1.0,18.0,Yes,960.0
+Super built-up  Area,1.0,1.0,50.0,No,650.0
+Super built-up  Area,6.0,2.0,425.0,Yes,3508.0
+Super built-up  Area,3.0,2.0,69.89,Yes,1664.0
+Super built-up  Area,2.0,2.0,42.4,No,1195.0
+Plot  Area,6.0,2.0,245.0,Yes,2400.0
+Built-up  Area,3.0,2.0,80.0,Yes,1124.0
+Super built-up  Area,3.0,2.0,112.0,Yes,2002.0
+Super built-up  Area,2.0,3.0,55.0,Yes,1500.0
+Super built-up  Area,2.0,1.0,50.0,No,1036.0
+Super built-up  Area,3.0,2.0,175.0,Yes,1800.0
+Super built-up  Area,3.0,2.0,58.0,No,1100.0
+Plot  Area,2.0,1.0,110.0,Yes,1320.0
+Super built-up  Area,3.0,2.0,56.0,Yes,1464.0
+Super built-up  Area,2.0,1.0,43.4,Yes,1358.0
+Super built-up  Area,2.0,2.0,52.5,Yes,1066.0
+Built-up  Area,2.0,0.0,40.0,Yes,1215.0
+Plot  Area,3.0,2.0,180.0,Yes,1600.0
+Super built-up  Area,3.0,3.0,65.0,Yes,1221.0
+Super built-up  Area,2.0,3.0,53.0,Yes,997.0
+Plot  Area,4.0,1.0,245.0,Yes,2894.0
+Super built-up  Area,2.0,1.0,49.5,Yes,1200.0
+Super built-up  Area,2.0,1.0,48.0,Yes,1070.0
+Built-up  Area,1.0,1.0,20.0,Yes,488.0
+Super built-up  Area,2.0,0.0,75.0,Yes,1531.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1600.0
+Super built-up  Area,3.0,2.0,178.0,Yes,2289.0
+Super built-up  Area,4.0,1.0,310.0,Yes,4111.0
+Super built-up  Area,1.0,1.0,25.0,No,900.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1486.0
+Super built-up  Area,2.0,2.0,46.0,Yes,1194.0
+Built-up  Area,2.0,2.0,56.0,No,957.0
+Super built-up  Area,2.0,1.0,27.0,No,900.0
+Super built-up  Area,3.0,2.0,140.0,No,1795.0
+Super built-up  Area,2.0,2.0,45.0,Yes,1200.0
+Super built-up  Area,3.0,1.0,95.0,Yes,1521.0
+Super built-up  Area,2.0,3.0,62.0,No,1100.0
+Super built-up  Area,1.0,1.0,20.0,Yes,500.0
+Super built-up  Area,2.0,1.0,32.0,No,1138.0
+Super built-up  Area,2.0,2.0,78.0,Yes,1130.0
+Super built-up  Area,1.0,1.0,42.0,Yes,910.0
+Plot  Area,2.0,1.0,50.0,Yes,400.0
+Plot  Area,4.0,3.0,110.0,Yes,1000.0
+Super built-up  Area,2.0,2.0,90.0,Yes,1530.0
+Super built-up  Area,2.0,3.0,52.0,Yes,1187.0
+Super built-up  Area,2.0,2.0,338.0,Yes,4334.0
+Plot  Area,2.0,1.0,175.0,Yes,800.0
+Built-up  Area,1.0,1.0,25.0,Yes,480.0
+Super built-up  Area,2.0,2.0,30.0,Yes,1100.0
+Super built-up  Area,2.0,2.0,58.06,Yes,1060.0
+Super built-up  Area,2.0,1.0,62.0,Yes,1007.0
+Super built-up  Area,2.0,2.0,62.81,No,1462.5
+Super built-up  Area,2.0,1.0,65.0,No,1012.0
+Plot  Area,6.0,1.0,220.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,73.95,Yes,1664.0
+Super built-up  Area,2.0,2.0,60.81,Yes,1403.0
+Super built-up  Area,2.0,1.0,45.0,Yes,1020.0
+Plot  Area,7.0,1.0,110.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,94.5,Yes,1230.0
+Plot  Area,7.0,0.0,73.0,Yes,600.0
+Plot  Area,2.0,1.0,74.0,Yes,1415.0
+Super built-up  Area,2.0,3.0,47.25,Yes,1500.0
+Super built-up  Area,2.0,2.0,69.0,Yes,1200.0
+Super built-up  Area,3.0,2.0,131.0,Yes,1756.0
+Plot  Area,8.0,2.0,290.0,Yes,2700.0
+Built-up  Area,3.0,2.0,88.0,Yes,1760.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1100.0
+Super built-up  Area,3.0,2.0,100.0,No,1819.0
+Super built-up  Area,2.0,1.0,25.4,No,850.0
+Super built-up  Area,2.0,2.0,32.0,No,850.0
+Super built-up  Area,2.0,1.0,82.0,No,1337.0
+Built-up  Area,2.0,0.0,55.0,Yes,1408.0
+Carpet  Area,2.0,2.0,29.5,Yes,775.0
+Super built-up  Area,3.0,2.0,410.0,Yes,2390.0
+Plot  Area,4.0,2.0,601.0,No,2360.0
+Super built-up  Area,3.0,2.0,150.0,Yes,1800.0
+Super built-up  Area,2.0,2.0,65.0,No,1145.0
+Super built-up  Area,2.0,1.0,89.04,Yes,1308.0
+Super built-up  Area,3.0,2.0,58.7,Yes,1576.0
+Super built-up  Area,3.0,1.0,83.0,No,1639.0
+Super built-up  Area,4.0,2.0,340.0,Yes,2735.0
+Built-up  Area,4.0,2.0,300.0,Yes,2600.0
+Super built-up  Area,2.0,3.0,45.0,Yes,1211.0
+Super built-up  Area,2.0,1.0,69.0,Yes,1248.0
+Super built-up  Area,2.0,3.0,43.79,Yes,1460.0
+Built-up  Area,4.0,2.0,140.0,Yes,3000.0
+Super built-up  Area,2.0,1.0,66.5,Yes,1012.0
+Plot  Area,3.0,1.0,45.0,Yes,350.0
+Built-up  Area,2.0,1.0,62.0,Yes,1240.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1900.0
+Super built-up  Area,2.0,3.0,58.4,No,1145.0
+Super built-up  Area,4.0,1.0,160.0,Yes,2274.24
+Super built-up  Area,3.0,2.0,56.24,Yes,1442.0
+Super built-up  Area,1.0,1.0,19.5,No,416.0
+Super built-up  Area,2.0,2.0,70.0,Yes,925.0
+Super built-up  Area,2.0,2.0,50.75,Yes,1450.0
+Built-up  Area,2.0,2.0,45.0,Yes,900.0
+Super built-up  Area,2.0,1.0,60.0,Yes,1175.0
+Super built-up  Area,2.0,2.0,56.0,Yes,1140.0
+Super built-up  Area,1.0,0.0,25.0,Yes,469.0
+Super built-up  Area,2.0,2.0,65.8,Yes,1400.0
+Super built-up  Area,2.0,2.0,50.0,No,966.0
+Super built-up  Area,2.0,1.0,58.56,No,1183.0
+Plot  Area,3.0,1.0,80.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,44.1,Yes,1470.0
+Plot  Area,3.0,1.0,75.0,Yes,1600.0
+Super built-up  Area,2.0,3.0,60.0,Yes,1200.0
+Super built-up  Area,2.0,3.0,140.0,Yes,1466.0
+Super built-up  Area,2.0,1.0,24.9,Yes,996.0
+Built-up  Area,2.0,2.0,58.0,Yes,1105.0
+Built-up  Area,4.0,2.0,135.0,Yes,3300.0
+Super built-up  Area,2.0,2.0,56.0,Yes,1140.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1269.72
+Super built-up  Area,2.0,2.0,70.0,Yes,1200.0
+Super built-up  Area,4.0,3.0,559.0,Yes,5150.0
+Plot  Area,4.0,2.0,220.0,Yes,1500.0
+Built-up  Area,2.0,1.0,48.5,Yes,1199.0
+Built-up  Area,2.0,1.0,32.64,No,1130.0
+Built-up  Area,2.0,1.0,35.0,Yes,799.0
+Super built-up  Area,3.0,2.0,150.0,No,1760.0
+Built-up  Area,3.0,3.0,75.0,Yes,1560.0
+Super built-up  Area,2.0,2.0,57.0,Yes,1300.0
+Built-up  Area,2.0,1.0,58.58,Yes,1240.0
+Built-up  Area,3.0,1.0,142.0,Yes,1527.0
+Super built-up  Area,3.0,1.0,160.0,No,2225.0
+Built-up  Area,2.0,3.0,53.55,Yes,955.0
+Super built-up  Area,2.0,2.0,27.98,No,900.0
+Plot  Area,8.0,2.0,400.0,Yes,3000.0
+Super built-up  Area,2.0,2.0,64.08,No,1100.0
+Super built-up  Area,2.0,2.0,68.0,Yes,1135.0
+Super built-up  Area,2.0,1.0,28.13,No,1125.0
+Plot  Area,7.0,3.0,95.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,34.0,Yes,1061.0
+Super built-up  Area,3.0,3.0,65.0,Yes,1800.0
+Built-up  Area,3.0,2.0,74.0,Yes,1700.0
+Built-up  Area,6.0,3.0,250.0,Yes,4400.0
+Super built-up  Area,3.0,3.0,95.0,Yes,1620.0
+Super built-up  Area,3.0,3.0,125.0,Yes,2155.0
+Super built-up  Area,3.0,3.0,92.0,Yes,2010.0
+Plot  Area,5.0,2.0,160.0,Yes,2400.0
+Built-up  Area,2.0,2.0,58.3,Yes,1060.0
+Super built-up  Area,5.0,2.0,720.0,Yes,6200.0
+Built-up  Area,3.0,1.0,90.0,Yes,2000.0
+Super built-up  Area,3.0,2.0,111.0,No,1700.0
+Built-up  Area,3.0,2.0,191.0,Yes,1740.0
+Super built-up  Area,3.0,0.0,47.6,No,1360.0
+Super built-up  Area,2.0,2.0,65.0,Yes,1200.0
+Built-up  Area,6.0,0.0,81.0,Yes,2500.0
+Built-up  Area,2.0,2.0,42.0,Yes,1045.0
+Super built-up  Area,4.0,2.0,440.0,Yes,3200.0
+Built-up  Area,2.0,1.0,30.0,Yes,845.0
+Plot  Area,4.0,1.0,130.0,Yes,1350.0
+Super built-up  Area,2.0,2.0,59.76,Yes,1565.0
+Super built-up  Area,2.0,1.0,65.0,Yes,1175.0
+Plot  Area,4.0,2.0,285.0,Yes,3004.0
+Built-up  Area,1.0,1.0,13.5,Yes,350.0
+Super built-up  Area,3.0,2.0,90.0,Yes,1674.0
+Super built-up  Area,2.0,1.0,50.0,Yes,1000.0
+Plot  Area,2.0,0.0,80.0,Yes,1200.0
+Plot  Area,5.0,1.0,250.0,Yes,1790.0
+Plot  Area,9.0,3.0,350.0,Yes,2400.0
+Super built-up  Area,2.0,0.0,60.48,Yes,1315.0
+Super built-up  Area,3.0,3.0,165.0,Yes,2210.0
+Built-up  Area,3.0,2.0,94.0,Yes,2489.0
+Super built-up  Area,2.0,2.0,50.0,Yes,1197.0
+Super built-up  Area,2.0,0.0,28.0,Yes,1150.0
+Built-up  Area,2.0,1.0,65.0,Yes,870.0
+Super built-up  Area,2.0,3.0,105.0,Yes,1170.0
+Super built-up  Area,1.0,1.0,15.5,Yes,660.0
+Super built-up  Area,2.0,2.0,88.5,Yes,1165.0
+Built-up  Area,3.0,2.0,110.0,Yes,1870.0
+Super built-up  Area,2.0,1.0,35.99,Yes,1075.0
+Super built-up  Area,3.0,3.0,138.0,Yes,2501.0
+Super built-up  Area,3.0,0.0,75.885,No,1533.0
+Super built-up  Area,1.0,0.0,50.0,Yes,1180.0
+Super built-up  Area,2.0,0.0,56.8,Yes,1277.5
+Built-up  Area,4.0,1.0,150.0,Yes,1666.0
+Super built-up  Area,2.0,1.0,45.0,Yes,1080.0
+Super built-up  Area,3.0,1.0,147.0,No,1516.0
+Super built-up  Area,2.0,2.0,55.0,Yes,1113.12
+Super built-up  Area,2.0,2.0,47.88,Yes,1260.0
+Super built-up  Area,2.0,2.0,62.82,No,1525.0
+Super built-up  Area,3.0,1.0,250.0,Yes,2500.0
+Built-up  Area,2.0,1.0,33.0,Yes,900.0
+Built-up  Area,2.0,1.0,85.0,Yes,1386.0
+Plot  Area,2.0,1.0,45.0,No,720.0
+Super built-up  Area,4.0,2.0,95.0,Yes,1893.0
+Super built-up  Area,3.0,1.0,70.67,No,2019.0
+Super built-up  Area,3.0,3.0,150.0,Yes,1700.0
+Super built-up  Area,2.0,3.0,61.0,Yes,1100.0
+Plot  Area,2.0,2.0,125.0,Yes,1200.0
+Super built-up  Area,2.0,1.0,74.0,Yes,1210.0
+Super built-up  Area,1.0,1.0,39.0,Yes,516.0
+Built-up  Area,3.0,3.0,75.0,Yes,1419.0
+Built-up  Area,3.0,2.0,100.0,Yes,1730.0
+Super built-up  Area,2.0,0.0,65.0,No,1162.0
+Super built-up  Area,2.0,3.0,49.0,Yes,1175.0
+Super built-up  Area,3.0,1.0,125.0,Yes,1896.0
+Built-up  Area,2.0,1.0,50.79,Yes,950.0
+Super built-up  Area,5.0,1.0,215.0,Yes,2383.0
+Super built-up  Area,2.0,1.0,43.1,Yes,1151.0
+Super built-up  Area,2.0,1.0,76.0,No,1210.0
+Built-up  Area,3.0,1.0,70.0,Yes,1460.0
+Super built-up  Area,2.0,2.0,150.0,Yes,1694.0
+Super built-up  Area,3.0,2.0,73.31,No,1455.0
+Super built-up  Area,3.0,2.0,88.0,Yes,1692.0
+Super built-up  Area,2.0,1.0,88.0,Yes,1400.0
+Super built-up  Area,2.0,1.0,65.0,Yes,950.0
+Super built-up  Area,2.0,1.0,31.15,Yes,708.0
+Super built-up  Area,2.0,1.0,24.0,Yes,500.0
+Super built-up  Area,4.0,2.0,262.0,No,3496.0
+Built-up  Area,2.0,0.0,64.0,Yes,900.0
+Super built-up  Area,2.0,1.0,85.28,No,1318.0
+Super built-up  Area,2.0,2.0,58.0,Yes,1135.0
+Carpet  Area,2.0,1.0,85.0,Yes,1470.0
+Super built-up  Area,3.0,2.0,78.0,Yes,1575.0
+Super built-up  Area,6.0,2.0,385.0,Yes,7800.0
