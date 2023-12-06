@@ -3,8 +3,11 @@ import sys
 
 import numpy as np
 import pandas as pd
+<<<<<<< HEAD
 from sklearn.metrics import r2_score
 from sklearn.model_selection import GridSearchCV
+=======
+>>>>>>> 0aab83d79f565eb717c6769dd9cd657e0fa03fdd
 
 import dill
 
@@ -18,6 +21,7 @@ def save_object(file_path, obj):
             dill.dump(obj, file_obj)
     
     except Exception as e:
+<<<<<<< HEAD
          raise CustomException(e, sys)
 
 def evaluate_models (X_train, y_train, X_test, y_test, models, param):
@@ -43,3 +47,7 @@ def evaluate_models (X_train, y_train, X_test, y_test, models, param):
             return report 
     except Exception as e:
         raise CustomException(e, sys)
+=======
+        raise CustomException(e, sys)
+    
+>>>>>>> 0aab83d79f565eb717c6769dd9cd657e0fa03fdd

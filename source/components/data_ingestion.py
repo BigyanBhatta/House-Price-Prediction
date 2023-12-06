@@ -6,12 +6,15 @@ from source.logger import logging
 from source.components.data_transformation import DataTransformation
 from source.components.data_transformation import DataTransformationConfig
 
+<<<<<<< HEAD
 # for testing 
 from source.components.model_trainer import ModelTrainer
 from source.components.model_trainer import ModelTrainerConfig
 
 
 
+=======
+>>>>>>> 0aab83d79f565eb717c6769dd9cd657e0fa03fdd
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -33,7 +36,11 @@ class DataIngestion:
         logging.info('Enter the data ingestion method or component')
         try:
             df = pd.read_csv('notebook\data\cleaned_data.csv')
+<<<<<<< HEAD
             
+=======
+
+>>>>>>> 0aab83d79f565eb717c6769dd9cd657e0fa03fdd
             logging.info('Read the dataset as dataframe')
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok= True)
@@ -59,7 +66,11 @@ if __name__ == '__main__':
     obj = DataIngestion()
     train_data, test_data = obj.initiate_data_ingestion()
     data_transformation = DataTransformation()
+<<<<<<< HEAD
     train_arr, test_arr, _ = data_transformation.initiate_data_transformation(train_data, test_data)
     modeltrainer = ModelTrainer()
     print(modeltrainer.initiate_model_trainer(train_arr, test_arr))
+=======
+    data_transformation.initiate_data_transformation(train_data, test_data)
+>>>>>>> 0aab83d79f565eb717c6769dd9cd657e0fa03fdd
     
