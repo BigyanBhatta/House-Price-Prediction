@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./venv_new/Lib/site-packages/jedi/plugins"
+    ]
+}
