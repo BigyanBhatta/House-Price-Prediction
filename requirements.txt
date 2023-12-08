@@ -3,9 +3,6 @@ pandas
 seaborn 
 scikit-learn
 dill
-<<<<<<< HEAD
 xgboost
 flask
-=======
->>>>>>> 0aab83d79f565eb717c6769dd9cd657e0fa03fdd
 #  -e .

@@ -5,6 +5,8 @@ import pandas as pd
 
 from sklearn.preprocessing import StandardScaler
 
+from source.pipeline.predict_pipeline import CustomData
+from source.pipeline.predict_pipeline import PredictPipeline
 
 application = Flask(__name__)
 app = application
@@ -19,7 +21,27 @@ def predict_datapoint():
     if request.method == 'GET':
         return render_template('home.html')
     else:
-        pass 
+        data = CustomData(
+            area_type = request.form.get('area_type'),
+            bath = request.form.get( 'bath'),
+            balcony = request.form.get('balcony'),
+            availabletomove = request.form.get('availabletomove'),
+            rectified_sqft = request.form.get('rectified_sqft')
+        )
+        
+        pred_df = data.get_data_as_data_frame()
+        print(pred_df)
+
+        predict_pipeline = PredictPipeline()
+        results = predict_pipeline.predict(pred_df)
+        return render_template('home.html', results = results[0])
+
+if __name__ == "__main__":
+    app.run(host = "0.0.0.0", debug = True)
+
+
+
+    
 
 
 
