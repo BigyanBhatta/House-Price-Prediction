@@ -25,7 +25,7 @@ class DataTransformation:
     def get_data_transformer_object(self):
         try:
             num_cols = ['bath', 'balcony', 'rectified_sqft']
-            cat_cols = ['area_type', 'available to move']
+            cat_cols = ['area_type', 'availabletomove']
             
             num_pipeline = Pipeline(
                 steps = [
@@ -56,10 +56,8 @@ class DataTransformation:
             train_df = pd.read_csv(train_path)
             test_df = pd.read_csv(test_path)
             logging.info('read train and test data completed')
-<<<<<<< HEAD
 
-=======
->>>>>>> 0aab83d79f565eb717c6769dd9cd657e0fa03fdd
+
             logging.info('obtaining preprocessing object')
 
             preprocessing_obj = self.get_data_transformer_object()
