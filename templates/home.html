@@ -1,3 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .login {
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            text-align: left;
+        }
+
+        select, input {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+            margin-bottom: 10px;
+        }
+
+        .btn-primary {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px;
+            cursor: pointer;
+        }
+
+        h2 {
+            margin-top: 20px;
+            color: #27ae60;
+        }
+    </style>
+    <title>Bangalore House Price Predictor</title>
 <html>
 <body>
     <div class="login">
@@ -8,7 +60,7 @@
             <legend>House price prediction</legend>
         </h1>
         <div class="mb-3">
-            <label class="form-label">area_type</label>
+            <label class="form-label">Area_type</label>
             <select class="form-control" name="area_type" placeholder="Select the type of area required" required>
                 <option class="placeholder" selected disabled value="">Select the type of area required</option>
                 <option value="Super built-up  Area">
@@ -26,7 +78,7 @@
             </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">availabletomove</label>
+            <label class="form-label">Is it available to move?</label>
             <select class="form-control" name="availabletomove" placeholder="Enter whether available to move or not" required>
                 <option class="placeholder" selected disabled value="">Enter whether available to move or not</option>
                 <option value="Yes">
@@ -38,25 +90,25 @@
             </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">no. of bathrooms required</label>
+            <label class="form-label">No. of bathrooms required</label>
             <input class="form-control" type="number" name="bath"
-                placeholder="Enter your Reading score" min='0' max='18' />
+                placeholder="Enter the no. of bathrooms" min='0' max='18' />
         </div>
         <div class="mb-3">
-            <label class="form-label">no. of balcony required</label>
+            <label class="form-label">No. of balcony required</label>
             <input class="form-control" type="number" name="balcony"
-                placeholder="Enter your Reading Score" min='0' max='3' />
+                placeholder="Enter the no. of balcony" min='0' max='3' />
         </div>
         <div class="mb-3">
-            <label class="form-label">sq. feet of floor area required</label>
+            <label class="form-label">Sq. feet of floor area required</label>
             <input class="form-control" type="number" name="rectified_sqft"
-                placeholder="Enter your Reading Score" min='0' max='4689' />
+                placeholder="Enter required floor area" min='0' max='4689' />
         <div class="mb-3">
             <input class="btn btn-primary" type="submit" value="Predict the price of the house/ flat: " required />
         </div>
     </form>
     <h2>
-       THE  prediction is {{results}}
+       The house price prediction in lakhs is {{results}}
     </h2>
    <body>
 </html>
