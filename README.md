@@ -1,4 +1,4 @@
-# End-to_End Machine Learning project for House Price detection.
+# End-to-End Machine Learning project for House Price detection.
 
 
 ## Primary Goal
